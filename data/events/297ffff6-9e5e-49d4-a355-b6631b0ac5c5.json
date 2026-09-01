@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "60bcc18a-12f3-445a-8747-4668fb509eca": {
+      "label": "Film Four",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/zGEMXN2tZCk?si=psqLZJ051enXW6CO",
+      "duration": 198
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "The Attraction (Mr Darcy's Letter)",
+  "created_at": "2026-09-01T11:36:04.197Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-09-01T11:36:04.197Z",
+  "updated_by": "Bridie219"
+}

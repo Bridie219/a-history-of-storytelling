@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "16e14870-d58e-4a9f-bb1f-a8f92b269459": {
+      "label": "Film Two",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/-f2VWIQD1C4?si=_F3PHDvPrxrKVw5u",
+      "duration": 232
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "The Barrier",
+  "created_at": "2026-09-01T11:36:04.197Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-09-01T11:36:04.197Z",
+  "updated_by": "Bridie219"
+}

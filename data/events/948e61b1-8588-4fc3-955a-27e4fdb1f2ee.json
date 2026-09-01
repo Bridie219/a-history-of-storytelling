@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "e11a622c-5a90-4e44-b738-d4d4b465a7ab": {
+      "label": "Film Seven",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/lImJgpANMoU?si=LwqtjLmEQyGoTU-I",
+      "duration": 185
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Point of Ritual Death (Lady Catherine)",
+  "created_at": "2026-09-01T11:36:04.197Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-09-01T11:36:04.197Z",
+  "updated_by": "Bridie219"
+}

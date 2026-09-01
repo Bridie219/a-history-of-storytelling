@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "c194ac7d-2d39-495d-bf95-9cb94480005f": {
+      "label": "Film Six",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/Urh4XFfn05w?si=txrhJ1R_yp7qk1Pp ",
+      "duration": 130
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Point of Ritual Death",
+  "created_at": "2026-09-01T11:36:04.197Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-09-01T11:36:04.197Z",
+  "updated_by": "Bridie219"
+}

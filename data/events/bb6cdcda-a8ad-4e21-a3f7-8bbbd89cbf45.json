@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "a56125ad-de65-4a65-bbc0-b61c76eaba02": {
+      "label": "Film Three",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/1IqHzszEJss?si=RL2uLvxAPASYBoiv ",
+      "duration": 560
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "The Attraction",
+  "created_at": "2026-09-01T11:36:04.197Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-09-01T11:36:04.197Z",
+  "updated_by": "Bridie219"
+}

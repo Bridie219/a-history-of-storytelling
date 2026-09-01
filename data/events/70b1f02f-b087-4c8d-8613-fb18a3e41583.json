@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "3c74b4d6-6bda-4df6-a838-7e0955b86917": {
+      "label": "Film Eight",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/_e0SbKGotwk?si=ka0n_FFcx9LiMLsK",
+      "duration": 167
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "The Recognition",
+  "created_at": "2026-09-01T11:36:04.197Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-09-01T11:36:04.197Z",
+  "updated_by": "Bridie219"
+}

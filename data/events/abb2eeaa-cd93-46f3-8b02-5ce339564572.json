@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "bc88e95d-ab60-4cae-bd6f-21c4396f1a59": {
+      "label": "Film Ten",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/uiaIGpAWSyo?si=H3xiPmwk_7UeqbAo",
+      "duration": 272
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "The Betrothal",
+  "created_at": "2026-09-01T11:36:04.197Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-09-01T11:36:04.197Z",
+  "updated_by": "Bridie219"
+}

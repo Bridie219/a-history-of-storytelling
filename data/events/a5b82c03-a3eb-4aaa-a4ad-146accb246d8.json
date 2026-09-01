@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "0015f943-9e3d-4ac5-9545-560c4ee74fd9": {
+      "label": "Film Five",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/DJbmGwsJZxI?si=GPtV2zh04AJLxYeg",
+      "duration": 270
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "The Declaration",
+  "created_at": "2026-09-01T11:36:04.197Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-09-01T11:36:04.197Z",
+  "updated_by": "Bridie219"
+}

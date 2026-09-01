@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "ad150234-ec36-4304-beb6-2695d1f0b755": {
+      "label": "Film Nine",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/XeHk6R_TPfw?si=NlDUPBDFfwclTG2-",
+      "duration": 180
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "The Recognition",
+  "created_at": "2026-09-01T11:36:04.197Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-09-01T11:36:04.197Z",
+  "updated_by": "Bridie219"
+}
