@@ -432,6 +432,55 @@
         }
       ],
       "uuid": "5a429569-c6a9-4ce7-a140-19181036821d"
+    },
+    {
+      "start_time": 279,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Charlotte and Jane mock Mr Darcy, and Jane decides he is the last man she would ever dance with. This becomes relevant when she says a similar thing to Mr Darcy during his proposal. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Defined Society",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Meeting",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "b8955581-947b-45f0-80c4-083c3454198c"
     }
   ],
   "set": "Default",
