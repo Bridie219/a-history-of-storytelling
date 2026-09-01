@@ -26,11 +26,117 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Genre",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Storytelling",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Medium",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Analysis",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Romance",
+          "color": "#99AFF2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Fantasy",
+          "category": "Genre"
+        },
+        {
+          "tag": "Horror",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "History",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Song",
+          "category": "Medium"
+        },
+        {
+          "tag": "Book",
+          "category": "Medium"
+        },
+        {
+          "tag": "Poem",
+          "category": "Medium"
+        },
+        {
+          "tag": "Television Show",
+          "category": "Medium"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Page",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Defined Society",
+          "category": "Romance"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "Betrothal",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Meeting",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ]
     },
     "created_at": "2026-08-31T13:56:49.621Z",
-    "updated_at": "2026-09-01T11:43:07.952Z",
+    "updated_at": "2026-09-01T11:45:25.190Z",
     "generate_pages_site": true
   },
   "annotations": {},
