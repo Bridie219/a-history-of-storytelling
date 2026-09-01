@@ -23,6 +23,51 @@
       ],
       "tags": [],
       "uuid": "75f06ef0-25d2-4379-9cc8-fcc7eff6128a"
+    },
+    {
+      "start_time": 20,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene includes the introduction of Mr Darcy and Mr Bingley to society. The way the crowd falls silent and the music stops indicates the importance of the pair. Elizabeth, Jane and Charlotte discuss Mr Darcy's wealth, to further establish the barrier of social class."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Defined Society",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "a8e05c19-841f-4673-bb86-86d1207f02cc"
     }
   ],
   "set": "Default",
