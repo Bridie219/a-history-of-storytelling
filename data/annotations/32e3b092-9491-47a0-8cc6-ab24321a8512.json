@@ -383,6 +383,55 @@
         }
       ],
       "uuid": "d9b474b3-3b01-4e2a-9fa8-fc63af7b057a"
+    },
+    {
+      "start_time": 255,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth overhears a conversation between Mr Bingley and Mr Darcy where Mr Darcy refers to her as \"tolerable, but not handsome enough to tempt me\" and she is offended. This contributes to the barrier, because Elizabeth struggles to forget his assessment of her, and her pride prevents her from ignoring it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Defined Society",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Meeting",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "5a429569-c6a9-4ce7-a140-19181036821d"
     }
   ],
   "set": "Default",
