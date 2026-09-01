@@ -4,11 +4,12 @@
   "created_by": "Bridie219",
   "title": "The Attraction (Mr Darcy's Letter)",
   "slug": "the-attraction-mr-darcys-letter",
-  "updated_at": "2026-09-01T11:36:04.613Z",
+  "updated_at": "2026-09-01T12:22:56.449Z",
   "updated_by": "Bridie219",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "297ffff6-9e5e-49d4-a355-b6631b0ac5c5"
-  }
+  },
+  "parent": "0435407c-7394-482d-87ff-5bd4d97e7609"
 }
