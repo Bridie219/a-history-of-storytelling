@@ -142,6 +142,51 @@
         }
       ],
       "uuid": "5d383804-9814-4c36-b21d-7d2f0232bdd8"
+    },
+    {
+      "start_time": 79,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Further establishes society with Mrs Bennett being eager to introduce her daughters to the two eligible men, in hopes of securing a prosperous marriage for them. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Defined Society",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Meeting",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "8d3154e9-36a6-4c40-bacc-09c8c49c9be2"
     }
   ],
   "set": "Default",
