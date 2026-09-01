@@ -244,6 +244,55 @@
         }
       ],
       "uuid": "e6636c77-c021-48c5-a5b8-69ae2fe63c52"
+    },
+    {
+      "start_time": 141,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The ball continues, Jane and Mr Bingley have their first conversation. Further defines society, and begins to set up a barrier between Mr Darcy and Elizabeth. Mr Darcy doesn't approve of the match between Jane and Mr Bingley because of her family's inappropriate behaviour within society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Defined Society",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Meeting",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "55181456-8e08-4c9e-9628-e96b92ed4246"
     }
   ],
   "set": "Default",
