@@ -187,6 +187,63 @@
         }
       ],
       "uuid": "8d3154e9-36a6-4c40-bacc-09c8c49c9be2"
+    },
+    {
+      "start_time": 97,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first official meeting between Mr Darcy and Elizabeth. Mr Darcy continues to focus his attention mostly on Elizabeth, but seems bored by the whole affair, as he doesn't much enjoy the performance of society."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He is also irritated by the behaviour of Mrs Bennett in this scene, because of the way she is attempting to foist her daughters off on the wealthy men."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Defined Society",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Meeting",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "e6636c77-c021-48c5-a5b8-69ae2fe63c52"
     }
   ],
   "set": "Default",
