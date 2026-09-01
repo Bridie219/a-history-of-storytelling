@@ -293,6 +293,51 @@
         }
       ],
       "uuid": "55181456-8e08-4c9e-9628-e96b92ed4246"
+    },
+    {
+      "start_time": 183,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The arrival of the officers to town also presents another barrier between Mr Darcy and Elizabeth in the form of Mr Wickham. He will become the heart of a misunderstanding between them, and also the heart of the moment of ritual death. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Defined Society",
+          "category": "Romance"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "adc011cd-ec22-49f7-80e3-1fab43249382"
     }
   ],
   "set": "Default",
