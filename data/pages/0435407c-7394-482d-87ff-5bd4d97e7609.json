@@ -26,7 +26,7 @@
           "text": "The Formula (with a case study of "
         },
         {
-          "text": "Pride and Prejudice ",
+          "text": "Pride and Prejudice by ",
           "italic": true
         },
         {
@@ -233,14 +233,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "image",
       "url": "https://i.ytimg.com/vi/uNgWnBsjxEw/sddefault.jpg",
       "caption": "The look of a man who just had his heart broken after he confessed his feelings \"in spite of his better judgement\"",
@@ -252,6 +244,121 @@
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "6. The Point of Ritual Death - in "
+        },
+        {
+          "text": "Pride and Prejudice",
+          "italic": true
+        },
+        {
+          "text": " the point of ritual death is a number of accumulated moments that have led to the demise of the relationship between Mr Darcy and Elizabeth. It started with the rejection of the proposal, but the final nail in the coffin of their relationship is Lydia's elopement with Mr Wickham. Poor Elizabeth realises that her family will be ruined by the scandal, and that it will prevent any possibility of a relationship between them, just when she was beginning to believe a relationship with Mr Darcy was something she wanted."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://i.ytimg.com/vi/Urh4XFfn05w/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAHFDERsuKtV1pG19m78iFrS7mfvA",
+      "caption": "Elizabeth crying at the news her sister has run away with Mr Wickham",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "7. The Recognition - in "
+        },
+        {
+          "text": "Pride and Prejudice ",
+          "italic": true
+        },
+        {
+          "text": "this is when Elizabeth learns of Mr Darcy's endeavours to protect her younger sister and ensure Mr Wickham went through with the elopement. In choosing to protect Elizabeth's family, she realises that Mr Darcy is not the man she originally believed him to be. It is in that moment that Elizabeth realises that she has feelings for Mr Darcy, and a part of her yearns to overturn her rejection of the proposal. Then, she is faced by Lady Catherine De Bourgh, who Mr Darcy's aunt. Lady Catherine demands Elizabeth refuse his proposal, and Elizabeth tells her she will do no such thing. This is the moment of recognition for Mr Darcy, whereby he learns Elizabeth's feelings for him have changed. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://pyxis.nymag.com/v1/imgs/c3f/f35/781ec0c16d696e334757af985ff1c8bec7-pride-and-prejudice-fnmc.2x.rsocial.w600.jpg",
+      "caption": "Mr Darcy helping Elizabeth into a carriage",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "8. The betrothal - in "
+        },
+        {
+          "text": "Pride and Prejudice",
+          "italic": true
+        },
+        {
+          "text": " the betrothal is the moment when Mr Darcy returns to propose once more to Elizabeth, believing there's a small possibility she has changed her mind about him. She accepts his proposal, and thus ends the romance arc. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpo_NcrjkDwhjN4s9V_414cmMuj-AXDX3iWfo1WDxOFWkuXPnOKcjUOtpO&s=10",
+      "caption": "Elizabeth and Mr Darcy after she has accepted his proposal",
       "children": [
         {
           "text": ""
@@ -276,6 +383,6 @@
   "slug": "the-genre-principles-of-romance",
   "created_at": "2026-09-01T09:17:09.942Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-09-01T09:37:46.147Z",
+  "updated_at": "2026-09-01T10:47:41.272Z",
   "updated_by": "Bridie219"
 }
