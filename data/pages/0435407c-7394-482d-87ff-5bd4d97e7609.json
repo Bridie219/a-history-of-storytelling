@@ -1,0 +1,158 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Romance is one of the most structured genres, and it has a formula that determines what should be included within the story structure. Romance is a highly popular genre because of it's familiarity. Readers can pick up a romance book, and expect to understand the basic outline of what will happen, but still be surprised by how events unfold. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "The Formula (with a case study of "
+        },
+        {
+          "text": "Pride and Prejudice ",
+          "italic": true
+        },
+        {
+          "text": "Jane Austen):"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "1. The Definition of Society - In "
+        },
+        {
+          "text": "Pride and Prejudice",
+          "italic": true
+        },
+        {
+          "text": " society is defined through the class structures that begin to emerge at the onset of the ball in one of the earliest scenes. In this scene, it is established that Mr Darcy is a wealthy man, as is Mr Bingley, and it begins to become clear that there is a hierarchy involved."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://maryrizza.com/wp-content/uploads/2014/11/janeandbingley1.png",
+      "caption": "Jane's first dance with Mr Bingley",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2. The Meeting - In "
+        },
+        {
+          "text": "Pride and Prejudice",
+          "italic": true
+        },
+        {
+          "text": " the meeting occurs when Elizabeth and Mr Darcy have their first interaction. Unfortunately, Mr Darcy chooses to be quite obnoxious within Elizabeth's hearing, and her first impression of him becomes quite negative. Mr Darcy's first impression of her is that her family behaves in an improper manner, and though she is charming, she is \"not handsome enough to tempt me.\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HUpdIlv_8woIDfcjvB1VYGCQ5HqWrdaC23lZQ6XamrsmCT-1PWXRW66m&s=10",
+      "caption": "Mr Darcy's opinion of Elizabeth before and after he's met her",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "The Genre Principles of Romance",
+  "parent": "6f64b222-e72b-4382-ab1b-fc8253839514",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "the-genre-principles-of-romance",
+  "created_at": "2026-09-01T09:17:09.942Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-09-01T09:17:09.942Z",
+  "updated_by": "Bridie219"
+}
