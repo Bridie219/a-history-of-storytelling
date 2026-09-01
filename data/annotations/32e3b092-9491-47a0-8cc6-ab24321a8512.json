@@ -21,7 +21,40 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        },
+        {
+          "tag": "Defined Society",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Meeting",
+          "category": "Romance"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        }
+      ],
       "uuid": "75f06ef0-25d2-4379-9cc8-fcc7eff6128a"
     },
     {
