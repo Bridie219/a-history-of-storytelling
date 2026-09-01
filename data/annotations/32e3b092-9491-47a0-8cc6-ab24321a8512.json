@@ -1,5 +1,30 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The film starts with the introduction of society. Elizabeth and her sister Jane are sitting down at the ball, watching the dancing happening around them as they talk about the men in the room."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This clip introduces one of the barriers between Elizabeth and Mr Darcy, which is Elizabeth's dismissal of the men of society. She does not believe they are worth her time."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "75f06ef0-25d2-4379-9cc8-fcc7eff6128a"
+    }
+  ],
   "set": "Default",
   "event_id": "5b3770e7-e426-45df-907a-78aebacb2158",
   "source_id": "6e818a29-1d80-4d2c-b3ca-72e758d7c552"
