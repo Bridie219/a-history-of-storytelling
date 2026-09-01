@@ -4,11 +4,12 @@
   "created_by": "Bridie219",
   "title": "Point of Ritual Death",
   "slug": "point-of-ritual-death",
-  "updated_at": "2026-09-01T11:36:04.694Z",
+  "updated_at": "2026-09-01T12:23:13.852Z",
   "updated_by": "Bridie219",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "fafa4f48-5a64-4e97-a898-1e434fd1e856"
-  }
+  },
+  "parent": "0435407c-7394-482d-87ff-5bd4d97e7609"
 }
