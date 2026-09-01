@@ -481,6 +481,47 @@
         }
       ],
       "uuid": "b8955581-947b-45f0-80c4-083c3454198c"
+    },
+    {
+      "start_time": 297,
+      "end_time": 379,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy broods in the corner while everyone else has a lovely time dancing. He doesn't tend to engage with society, which is another point against him in Elizabeth's books."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Defined Society",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "84ce38eb-13aa-4b96-bd45-d5a93a7d95c6"
     }
   ],
   "set": "Default",
