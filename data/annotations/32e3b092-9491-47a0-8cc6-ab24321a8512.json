@@ -101,6 +101,47 @@
         }
       ],
       "uuid": "a8e05c19-841f-4673-bb86-86d1207f02cc"
+    },
+    {
+      "start_time": 66,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A brief meeting of eyes between Elizabeth and Mr Darcy, where Mr Darcy appears briefly shocked to have noticed Elizabeth, and Elizabeth seems a little pleased to have captured his attention. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "The Meeting",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "5d383804-9814-4c36-b21d-7d2f0232bdd8"
     }
   ],
   "set": "Default",
