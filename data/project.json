@@ -24,7 +24,18 @@
     "authors": "Bridie",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "alanac-AVAnnotate",
+        "avatar_url": "https://avatars.githubusercontent.com/u/320573714?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "sheevaghahyazi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/323870691?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -184,7 +195,7 @@
       ]
     },
     "created_at": "2026-08-31T13:56:49.621Z",
-    "updated_at": "2026-09-02T04:33:41.331Z",
+    "updated_at": "2026-09-02T04:46:24.219Z",
     "generate_pages_site": true
   },
   "annotations": {},
