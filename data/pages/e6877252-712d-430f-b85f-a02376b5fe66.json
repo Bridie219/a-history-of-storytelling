@@ -116,6 +116,24 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "image",
+      "url": "https://theweek.com/news/technology/958675/pong-at-50-the-video-game-that-changed-the-world",
+      "caption": "Home Pong quickly soared to popularity in the mid-1970s",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "The storytelling of Gaming",
@@ -127,6 +145,6 @@
   "slug": "the-storytelling-of-gaming",
   "created_at": "2026-09-04T08:06:10.841Z",
   "created_by": "123monkey777",
-  "updated_at": "2026-09-04T08:06:10.841Z",
+  "updated_at": "2026-09-04T08:09:08.681Z",
   "updated_by": "123monkey777"
 }
