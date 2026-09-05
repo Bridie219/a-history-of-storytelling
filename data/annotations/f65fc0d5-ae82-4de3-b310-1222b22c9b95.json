@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 90,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Test annotations "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Medium",
+          "tag": "Video Game"
+        }
+      ],
+      "uuid": "d19fca84-62ad-43bb-a707-6f90f2ebfa0f"
+    }
+  ],
   "set": "Default",
   "event_id": "5807728d-b2b1-4845-bc22-0fd0635ad57a",
   "source_id": "b6592f36-c1d0-4920-b335-284f92991347"
