@@ -187,6 +187,47 @@
         }
       ],
       "uuid": "0e6ec84d-4e78-43ce-97e3-67495d442ef2"
+    },
+    {
+      "start_time": 126,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy's attraction becomes more obvious each time he and Elizabeth are in a room with other people. Mr Darcy only really seems to have attention for her, and he completely ignores Mr Collins in order to address Elizabeth. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "46555219-6ebd-434e-a364-7a2a34aba15a"
     }
   ],
   "set": "Default",
