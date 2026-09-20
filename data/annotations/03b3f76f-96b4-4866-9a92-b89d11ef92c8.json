@@ -1,1 +1,44 @@
-{"annotations":[],"set":"Default","event_id":"bb6cdcda-a8ad-4e21-a3f7-8bbbd89cbf45","source_id":"a56125ad-de65-4a65-bbc0-b61c76eaba02"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy's first glimpse of Elizabeth Bennett. It becomes very clear that he's attracted to her just from that quick glance, and then he studiously avoids eye contact. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "The Meeting",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "54d6ce46-9897-4748-9d83-f5a36c65cca5"
+    }
+  ],
+  "set": "Default",
+  "event_id": "bb6cdcda-a8ad-4e21-a3f7-8bbbd89cbf45",
+  "source_id": "a56125ad-de65-4a65-bbc0-b61c76eaba02"
+}
