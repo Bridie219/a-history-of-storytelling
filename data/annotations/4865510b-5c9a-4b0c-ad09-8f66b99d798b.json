@@ -211,6 +211,51 @@
         }
       ],
       "uuid": "5a490786-4457-41a7-b3de-45605fe516a6"
+    },
+    {
+      "start_time": 130,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Wickham's refusal to leave is ironic, because he does actually avoid attending the ball. He avoids Mr Darcy, because a confrontation would expose his previous behaviour, and clue the Bennett family into his actions. By talking of his hatred of Mr Darcy, he further cements the barrier between Elizabeth and Mr Darcy, as Mr Wickham has become someone she trusts. He doesn't tell her the full truth, however, and when she does uncover the truth of what Mr Wickham has done, she immediately turns against him - especially when he tries something similar with her sister, Lydia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "19dd5045-95e9-4cf2-b1d7-05c163daa081"
     }
   ],
   "set": "Default",
