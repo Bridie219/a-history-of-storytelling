@@ -477,6 +477,63 @@
         }
       ],
       "uuid": "cc8621b7-ca82-466a-a8a1-9590e74c7bd2"
+    },
+    {
+      "start_time": 334,
+      "end_time": 408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth is feeling very awkward when she encounters Mr Darcy during a visit to his estate. In a way, this is when Elizabeth starts to feel attracted to Mr Darcy, through the exploration of his estate, she realises what she'd given up when she rejected his proposal. He further cements her regretting of the rejection when he supports his family, but this scene marks a turning point for Elizabeth. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It also explores how gone for Elizabeth Mr Darcy is, because he spends rather a long time staring at her like he can't believe she's real. That, and he makes it very clear that he's been paying attention to what she likes and dislikes, when she says \"I'm rather fond of walking\" and he about falls over trying to tell her that he knows. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "206d34d7-b5a3-480c-b507-42f931a45300"
     }
   ],
   "set": "Default",
