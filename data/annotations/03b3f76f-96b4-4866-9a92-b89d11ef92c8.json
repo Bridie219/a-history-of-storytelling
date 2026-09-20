@@ -93,6 +93,43 @@
         }
       ],
       "uuid": "c3d3fc0b-5f3c-410b-b09a-f9791522d58b"
+    },
+    {
+      "start_time": 97,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy helping Elizabeth into the carriage is one of the most recognisable scenes from the film. It is where his attraction to Elizabeth becomes the most obvious. The way he flexes his hand, like he's trying to remember what it felt like to hold her hand. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "37651ac0-9b09-4f56-9bca-3e13d4da4fcd"
     }
   ],
   "set": "Default",
