@@ -1,1 +1,44 @@
-{"annotations":[],"set":"Default","event_id":"8d59367a-3688-414e-9237-dbe637d70147","source_id":"16e14870-d58e-4a9f-bb1f-a8f92b269459"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The arrival of the officers portends the arrival of Mr Wickham, who acts as a barrier between Elizabeth and Mr Darcy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        }
+      ],
+      "uuid": "2dadd251-8ada-4672-b3b3-4d67abf871f0"
+    }
+  ],
+  "set": "Default",
+  "event_id": "8d59367a-3688-414e-9237-dbe637d70147",
+  "source_id": "16e14870-d58e-4a9f-bb1f-a8f92b269459"
+}
