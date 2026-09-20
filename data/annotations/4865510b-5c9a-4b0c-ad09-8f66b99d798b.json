@@ -89,6 +89,59 @@
         }
       ],
       "uuid": "50ade8e8-58d3-41b8-939e-78ce18634c05"
+    },
+    {
+      "start_time": 45,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth is charmed by his demeanour and his self-deprecating nature. He acts as a kind of foil to Mr Darcy, who is closed off and prideful. Mr Wickham becomes the charming figure that Elizabeth is drawn to, further cementing his status as the barrier between Elizabeth and Mr Darcy. Later, it is because of Mr Wickham that Elizabeth realises her growing attraction to Mr Darcy, especially when he begins to help her family out of a problematic situation Mr Wickham put them in. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "The Meeting",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "11f6f6be-5dac-4c9e-88a4-fca934a6720d"
     }
   ],
   "set": "Default",
