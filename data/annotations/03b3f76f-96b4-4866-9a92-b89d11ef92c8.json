@@ -579,6 +579,55 @@
         }
       ],
       "uuid": "e8686e35-081e-42d7-a84a-3c09049f0d72"
+    },
+    {
+      "start_time": 442,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene is the moment of recognition, where they're both in a place to realise the full extent of their feelings for each other. It is also the moment of Elizabeth's declaration. She finally realises just how much he has been trying to help her and her family. That, more than anything else, endears him to her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "ba8c52e9-19a5-48f4-a8ff-45898038f4c6"
     }
   ],
   "set": "Default",
