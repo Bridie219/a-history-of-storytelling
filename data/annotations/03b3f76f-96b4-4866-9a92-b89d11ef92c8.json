@@ -628,6 +628,59 @@
         }
       ],
       "uuid": "ba8c52e9-19a5-48f4-a8ff-45898038f4c6"
+    },
+    {
+      "start_time": 466,
+      "end_time": 545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The proposal scene! This is where the attraction is most evident, because it's the resolution of the film. It's also the moment of recognition, where both characters agree to enter into a relationship together, despite any obstacles they may face. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        },
+        {
+          "tag": "Betrothal",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "6ee29e47-4e8f-4c6c-87d5-0b2004ee92fb"
     }
   ],
   "set": "Default",
