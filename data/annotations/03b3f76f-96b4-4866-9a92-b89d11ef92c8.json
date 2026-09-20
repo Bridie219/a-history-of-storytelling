@@ -228,6 +228,63 @@
         }
       ],
       "uuid": "46555219-6ebd-434e-a364-7a2a34aba15a"
+    },
+    {
+      "start_time": 143,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another example of Mr Darcy ignoring most polite social conventions by abandoning a conversation so he could spend time staring at Elizabeth while she plays piano. Mr Darcy's implication that he couldn't alarm Elizabeth even if he wanted to suggests that he is intrigued by the way she doesn't care about his thoughts. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He is intrigued by her self-assuredness. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "b2edeb8a-e2e3-4254-a583-8301c71f9e56"
     }
   ],
   "set": "Default",
