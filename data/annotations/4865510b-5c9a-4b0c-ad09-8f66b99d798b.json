@@ -142,6 +142,30 @@
         }
       ],
       "uuid": "11f6f6be-5dac-4c9e-88a4-fca934a6720d"
+    },
+    {
+      "start_time": 73,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene is very important because it sets up the later scandal between Lydia and Mr Wickham, where Mr Wickham runs away with Lydia to elope, which has the potential to ruin the marriage prospects of her sisters. Elizabeth is charmed by his offer to buy her sister a ribbon, but Lydia is even more charmed by his actions. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The potential ruin for her family creates the moment of ritual death between Mr Darcy and Elizabeth, because Elizabeth was finally starting to see Mr Darcy in a more favourable light. When she learns her sister intends to elope, she realises it will be a stain on her reputation, that could prevent Mr Darcy from being allowed to marry her. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "225e3f82-8ad4-4445-ba6e-60e23a2bb593"
     }
   ],
   "set": "Default",
