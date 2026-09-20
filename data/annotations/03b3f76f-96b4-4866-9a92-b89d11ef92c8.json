@@ -52,6 +52,47 @@
       ],
       "tags": [],
       "uuid": "1006e95e-5d29-4bc3-9ea4-b8720281b76a"
+    },
+    {
+      "start_time": 71,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene is more an example of the barrier than of Mr Darcys attraction. In this scene, he comes across as rather arrogant and demanding. The closes he gets to showing a sign of his attraction to Elizabeth is at the end, where he suggests an accomplished woman should open her mind by reading, and Elizabeth closes her book immediately. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "c3d3fc0b-5f3c-410b-b09a-f9791522d58b"
     }
   ],
   "set": "Default",
