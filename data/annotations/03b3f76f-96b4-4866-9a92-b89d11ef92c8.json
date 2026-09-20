@@ -534,6 +534,51 @@
         }
       ],
       "uuid": "206d34d7-b5a3-480c-b507-42f931a45300"
+    },
+    {
+      "start_time": 408,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth's attraction to Mr Darcy grows when she sees the way he acts around his sister. He is basically a whole different person. She also realises just how deeply Mr Darcy's feelings must go, if he spends so much time talking about Elizabeth to his sister. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "e8686e35-081e-42d7-a84a-3c09049f0d72"
     }
   ],
   "set": "Default",
