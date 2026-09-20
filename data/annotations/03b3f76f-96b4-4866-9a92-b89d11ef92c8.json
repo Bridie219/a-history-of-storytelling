@@ -424,6 +424,59 @@
         }
       ],
       "uuid": "e196b06b-91e6-4e89-857b-4fcb1caa92f6"
+    },
+    {
+      "start_time": 299,
+      "end_time": 334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy's first proposal... needs some work. But his attraction is undeniable, especially when he chronologically lists all the reasons he shouldn't be marrying her, and implies that he simply must anyway, because he loves her so much. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Poor Elizabeth is completely bamboozled."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "cc8621b7-ca82-466a-a8a1-9590e74c7bd2"
     }
   ],
   "set": "Default",
