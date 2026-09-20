@@ -36,6 +36,22 @@
         }
       ],
       "uuid": "54d6ce46-9897-4748-9d83-f5a36c65cca5"
+    },
+    {
+      "start_time": 7,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy's attraction to Elizabeth is undeniable. Every time she enters the room, all of his attention is immediately focused on her. She feels rather uncomfortable from his attention, because she doesn't understand what it means. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1006e95e-5d29-4bc3-9ea4-b8720281b76a"
     }
   ],
   "set": "Default",
