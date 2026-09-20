@@ -130,6 +130,63 @@
         }
       ],
       "uuid": "37651ac0-9b09-4f56-9bca-3e13d4da4fcd"
+    },
+    {
+      "start_time": 110,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene is a callback to the first ball Elizabeth and Mr Darcy both attended, where she asked if he danced and he said \"not if I can help it.\" His decision to ask her to dance explores the attraction he feels for her in a very subtle way. It makes it clear that though he dislikes dancing, he would happily dance with her. His lack of expression could be interpreted as dismissive formality (which is likely how Elizabeth sees it) but it could also be interpreted as nerves."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth is completely shocked at this turn of events, because she is still acting under the assumption that he doesn't like her. He has not done the best job of showing her his interest. His decision to ask Elizabeth to dance is his announcement of his feelings and regard for her, but she doesn't pick up on that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "0e6ec84d-4e78-43ce-97e3-67495d442ef2"
     }
   ],
   "set": "Default",
