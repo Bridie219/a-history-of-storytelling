@@ -375,6 +375,55 @@
         }
       ],
       "uuid": "51c7a648-3fa9-4453-9274-4cb927cb90ff"
+    },
+    {
+      "start_time": 224,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy wanted an excuse to visit Elizabeth, and then forgot what his excuse was upon arrival. His attraction (or at the very least, his desire to be in Elizabeth's presence) is very obvious in this scene. He came upon a reason to visit her, and then immediately left upon interruption. It's almost like he was building up to propose and then changed his mind. He ignores Charlotte, the lady of the house, on his exit. It makes it very clear he was there to see Elizabeth, and only Elizabeth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "e196b06b-91e6-4e89-857b-4fcb1caa92f6"
     }
   ],
   "set": "Default",
