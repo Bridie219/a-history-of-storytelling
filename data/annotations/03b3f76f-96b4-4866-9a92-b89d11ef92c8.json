@@ -330,6 +330,51 @@
         }
       ],
       "uuid": "17bb158b-0dfd-49fd-ae7b-24dfeb9ea1af"
+    },
+    {
+      "start_time": 206,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth reminds Mr Darcy that self-improvement is an option he possesses. That's why at the next ball, he is quick to ask her to dance. He thinks it will improve her perception of him. He is following the guidance she gives him. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He also makes it clear that he is trying to converse with her now. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "51c7a648-3fa9-4453-9274-4cb927cb90ff"
     }
   ],
   "set": "Default",
