@@ -285,6 +285,51 @@
         }
       ],
       "uuid": "b2edeb8a-e2e3-4254-a583-8301c71f9e56"
+    },
+    {
+      "start_time": 174,
+      "end_time": 206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth making fun of Mr Darcy's behaviour at the first ball continues to ensure Mr Darcy is aware of the little regard she has for him. he feels the need to defend his actions, but Elizabeth is quick to dismiss his defence. Mr Darcy feels the need to improve her impression of him, because he wants her to think as highly of him as he does of her. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "17bb158b-0dfd-49fd-ae7b-24dfeb9ea1af"
     }
   ],
   "set": "Default",
