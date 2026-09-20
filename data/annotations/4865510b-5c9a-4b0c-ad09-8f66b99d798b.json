@@ -256,6 +256,51 @@
         }
       ],
       "uuid": "19dd5045-95e9-4cf2-b1d7-05c163daa081"
+    },
+    {
+      "start_time": 169,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The barrier between Elizabeth and Mr Darcy is at its strongest after this moment. Mr Wickham has mislead her into believing that Mr Darcy stole from him, instead of that he gambled away his money, and then attempted to elope with Mr Darcy's sister. Once the barrier is dismantled (the truth comes out), Elizabeth has fewer reasons to dislike Mr Darcy, and instead slowly comes to admire him for his actions in defending his sister. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "caa966dc-1959-4731-b1f1-b747c5b8dc8e"
     }
   ],
   "set": "Default",
