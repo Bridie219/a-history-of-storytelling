@@ -36,6 +36,59 @@
         }
       ],
       "uuid": "2dadd251-8ada-4672-b3b3-4d67abf871f0"
+    },
+    {
+      "start_time": 20,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Wickham picking up the handkerchief for Elizabeth initiates the start of their relationship, and acts as their initial \"meeting\". Mr Wickham makes a much better, more charming impression, than Mr Darcy. He acts as a barrier between the two because of his charm, but also because of his longstanding feud with Mr Darcy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Meeting",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        }
+      ],
+      "uuid": "50ade8e8-58d3-41b8-939e-78ce18634c05"
     }
   ],
   "set": "Default",
