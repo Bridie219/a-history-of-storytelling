@@ -166,6 +166,51 @@
       ],
       "tags": [],
       "uuid": "225e3f82-8ad4-4445-ba6e-60e23a2bb593"
+    },
+    {
+      "start_time": 92,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The tense moment between Mr Wickham and Mr Darcy reveals their longstanding dislike of each other, especially the moment where Mr Darcy gallops away on his horse. Elizabeth interprets it as Mr Darcy being rude and dismissive of Mr Wickham, instead of Mr Darcy's anger at Mr Wickham's being around more young ladies he has the opportunity to ruin. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "5a490786-4457-41a7-b3de-45605fe516a6"
     }
   ],
   "set": "Default",
