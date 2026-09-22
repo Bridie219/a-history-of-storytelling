@@ -9,9 +9,12 @@
     }
   },
   "auto_generate_web_page": true,
-  "label": "Point of Ritual Death",
+  "label": "Moment of Ritual Death - Lydia's Elopement",
   "created_at": "2026-09-01T11:36:04.197Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-09-01T11:36:04.197Z",
-  "updated_by": "Bridie219"
+  "updated_at": "2026-09-22T07:46:19.969Z",
+  "updated_by": "Bridie219",
+  "av_file_order": [
+    "c194ac7d-2d39-495d-bf95-9cb94480005f"
+  ]
 }
