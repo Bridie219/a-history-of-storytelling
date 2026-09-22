@@ -126,6 +126,51 @@
         }
       ],
       "uuid": "056ade78-7b57-49b9-8a5a-ee84e0315e8b"
+    },
+    {
+      "start_time": 122,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth makes clear her feelings towards Mr Wickham by ignoring him. Her family could have easily been ruined by his actions, and she hasn't forgotten what Mr Darcy told her about him either. Mr Wickham's actions have only cemented her good opinion of Mr Darcy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "5656c38c-768a-49d6-ab07-af6005694a4d"
     }
   ],
   "set": "Default",
