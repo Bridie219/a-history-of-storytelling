@@ -77,6 +77,55 @@
         }
       ],
       "uuid": "dcf815b8-d677-4e23-9841-ce2232c565df"
+    },
+    {
+      "start_time": 68,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the moment where Elizabeth's feelings for Mr Darcy become confirmed. She now realises that instead of pursuing her, he went to help her sister, and prevent the scandal from affecting Elizabeth's entire family. He wasn't avoiding Elizabeth because of the scandal, he was actively attempting to minimise its effects. Elizabeth realises what Mr Darcy is willing to do to help her. It also resolves the moment of ritual death, because it becomes clear to Elizabeth that Mr Darcy never intended to abandon her just because of the elopement - he ran off to fix things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "056ade78-7b57-49b9-8a5a-ee84e0315e8b"
     }
   ],
   "set": "Default",
