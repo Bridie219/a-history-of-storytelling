@@ -244,6 +244,55 @@
         }
       ],
       "uuid": "d7e0c4f0-d0d9-447e-8c2f-8ba008eb6b5e"
+    },
+    {
+      "start_time": 86,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene sparks the moment of recognition between Mr Darcy and Elizabeth, and also provides Mr Darcy a roadmap for earning Elizabeth's affection. It also opens Elizabeth's eyes to the behaviour of her own family members, and she begins to realise that Mr Darcy wasn't as arrogant as he may have appeared, and that her family is at times, rather improper. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Their communication during this scene helps them both to understand the situation better. They are both better able to understand the errors in their actions. Mr Darcy learns that Elizabeth's family is very important to her, and Elizabeth learns that Mr Darcy wanted to protect his friend from being taken advantage of. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "1f53e1a9-f6bb-41a5-a530-67f215f2b386"
     }
   ],
   "set": "Default",
