@@ -1,1 +1,52 @@
-{"annotations":[],"set":"Default","event_id":"fafa4f48-5a64-4e97-a898-1e434fd1e856","source_id":"c194ac7d-2d39-495d-bf95-9cb94480005f"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the moment of ritual death. Elizabeth and Mr Darcy had been developing a kind of friendship after Elizabeth's visit to Pemberley House. The news of Lydia's elopement destroys that relationship they'd been building, because if Lydia doesn't go through with the elopement, her family's reputation will be destroyed. This would prevent Mr Darcy from being able to marry Elizabeth. It seems to be an impenetrable obstacle to their relationship."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "95ad0d9f-d355-4d0d-bd92-e93e05059a9f"
+    }
+  ],
+  "set": "Default",
+  "event_id": "fafa4f48-5a64-4e97-a898-1e434fd1e856",
+  "source_id": "c194ac7d-2d39-495d-bf95-9cb94480005f"
+}
