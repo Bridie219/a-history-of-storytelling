@@ -134,6 +134,51 @@
         }
       ],
       "uuid": "0200b33b-f5c8-44a1-8083-7ca459b7dce0"
+    },
+    {
+      "start_time": 184,
+      "end_time": 272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The betrothal scene also contains a declaration of love from Mr Darcy. He expresses his hopes for their future, but also gives Elizabeth the opportunity to back away, especially after his last proposal went quite badly. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This time, the proposal is accepted - not in as many words, but there is something beautiful in their quiet moment together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Betrothal",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "e6892efa-9b96-494b-bce3-a09f96d4970a"
     }
   ],
   "set": "Default",
