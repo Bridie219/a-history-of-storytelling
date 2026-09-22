@@ -93,6 +93,47 @@
         }
       ],
       "uuid": "45c07e79-7207-4294-9644-1a4547cea142"
+    },
+    {
+      "start_time": 73,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This dialogue between Elizabeth and Mr Darcy is as thinly veiled a confession they can make. Elizabeth says they've run out of time, and there's nothing they can do. She is mourning her relationship with Mr Darcy. Mr Darcy is planning how he can intervene to prevent ruin from falling on Elizabeth's family. He is trying to protect what she values. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "4479abc5-8c8d-4850-9f28-1944a8be5cd0"
     }
   ],
   "set": "Default",
