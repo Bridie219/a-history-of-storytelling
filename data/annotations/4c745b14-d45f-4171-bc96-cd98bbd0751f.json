@@ -1,1 +1,56 @@
-{"annotations":[],"set":"Default","event_id":"297ffff6-9e5e-49d4-a355-b6631b0ac5c5","source_id":"60bcc18a-12f3-445a-8747-4668fb509eca"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth is feeling rather out of sorts after Mr Darcy's proposal to her. It's almost like she's grieving the life she could had led, if Mr Darcy were a more tolerable version of himself. She also doesn't feel much like being out in society because she doesn't want to risk encountering Mr Darcy. She is also beginning to slowly realise he was right about everything he said, and she was quite harsh. He is about to dismantle the last argument she had, which was his dislike of Mr Wickham, through the letter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "056f1673-7630-49dc-95b7-f8af74d77841"
+    }
+  ],
+  "set": "Default",
+  "event_id": "297ffff6-9e5e-49d4-a355-b6631b0ac5c5",
+  "source_id": "60bcc18a-12f3-445a-8747-4668fb509eca"
+}
