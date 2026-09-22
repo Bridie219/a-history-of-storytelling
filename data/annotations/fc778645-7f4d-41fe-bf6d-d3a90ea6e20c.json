@@ -146,6 +146,55 @@
         }
       ],
       "uuid": "4d093d74-2ce3-4554-8a4a-db70a0f5b3c5"
+    },
+    {
+      "start_time": 110,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Through the very implication that Mr Darcy is engaged to her daughter, Elizabeth tears down Lady Catherine's argument. She and Lady Catherine both know Mr Darcy has the right to choose whom he will marry, regardless of Lady Catherine's designs. It acts as a declaration of Elizabeth's feelings, and also brings Elizabeth and Mr Darcy into a moment of recognition. They are finally in the same place, with the same feelings."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "35e847d6-f75f-4c88-891c-e597a702c135"
     }
   ],
   "set": "Default",
