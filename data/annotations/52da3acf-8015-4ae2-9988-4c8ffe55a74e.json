@@ -1,1 +1,44 @@
-{"annotations":[],"set":"Default","event_id":"a5b82c03-a3eb-4aaa-a4ad-146accb246d8","source_id":"0015f943-9e3d-4ac5-9545-560c4ee74fd9"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy cannot help but constantly be drawn to Elizabeth. He seems to always know exactly where she is in a room. It really makes his attraction to Elizabeth seem very obvious - to everyone, expect Elizabeth. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "4ca31890-44b8-4369-8457-320f271c80f1"
+    }
+  ],
+  "set": "Default",
+  "event_id": "a5b82c03-a3eb-4aaa-a4ad-146accb246d8",
+  "source_id": "0015f943-9e3d-4ac5-9545-560c4ee74fd9"
+}
