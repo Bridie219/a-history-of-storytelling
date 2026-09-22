@@ -48,6 +48,51 @@
         }
       ],
       "uuid": "84e9f965-7be7-4a9d-95f6-e4583798ca6b"
+    },
+    {
+      "start_time": 37,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth finally begins to declare to her sister that her feelings towards Mr Darcy have changed, and this is before she knows Mr Darcy is actively trying to reconcile her sister and Mr Bingley. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "708e2d6e-e052-4a06-9826-927c03555cf1"
     }
   ],
   "set": "Default",
