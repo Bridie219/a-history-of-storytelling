@@ -36,6 +36,47 @@
         }
       ],
       "uuid": "b767bec7-a58a-40be-8809-c66cc119d935"
+    },
+    {
+      "start_time": 32,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lydia is still unaware of the potential damage she could have wreaked on the family's reputation. Elizabeth is frustrated, because her sister came between her and Mr Darcy, and since news of her elopement came, she hasn't heard from Mr Darcy. She has started to believe that Mr Darcy has abandoned his pursuit of her. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "dcf815b8-d677-4e23-9841-ce2232c565df"
     }
   ],
   "set": "Default",
