@@ -48,6 +48,51 @@
         }
       ],
       "uuid": "056f1673-7630-49dc-95b7-f8af74d77841"
+    },
+    {
+      "start_time": 85,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy will not attempt to talk her into marriage, but he does wish to defend his own honour. This is where the barrier is torn down quite well. Elizabeth is no longer able to hold Mr Darcy away after she reads the letter. The removal of the barrier allows her to see who Mr Darcy really is, and allows her attraction to him to grow over the course of the film. She is then only able to judge him on his actions, and her own perceptions. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "7db4e414-770a-4748-8506-6201fb13bd1b"
     }
   ],
   "set": "Default",
