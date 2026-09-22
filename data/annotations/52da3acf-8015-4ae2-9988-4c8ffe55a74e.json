@@ -36,6 +36,51 @@
         }
       ],
       "uuid": "4ca31890-44b8-4369-8457-320f271c80f1"
+    },
+    {
+      "start_time": 7,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth tries to get some breathing room from Mr Darcy and goes for a walk. Mr Darcy follows her, because he can deny his feelings no longer. This is his moment of declaration - in a way, there are two moments of declaration in each romance book. Each party of the relationship must eventually recognise and confess their feelings. At the moment of Mr Darcy's declaration, Elizabeth doesn't possess the same feelings. It takes time for her to realise what she actually feels for him. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "94103cda-59a2-4259-bb9f-9e2ea6639fc4"
     }
   ],
   "set": "Default",
