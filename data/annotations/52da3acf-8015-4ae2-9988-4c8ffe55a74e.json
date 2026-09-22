@@ -146,6 +146,59 @@
         }
       ],
       "uuid": "d5104a1c-83a7-4ac1-9ea2-e578051c2cbb"
+    },
+    {
+      "start_time": 40,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy insists on reminding them both of the multitude of barriers that should prevent them from being together, before he declares that his feelings continue to exist despite everything. It makes his declaration sound moire like a list of insults than a confession of love."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "d95e7f6a-fc36-45fc-92a3-c0f74ed3c15f"
     }
   ],
   "set": "Default",
