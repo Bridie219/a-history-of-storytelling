@@ -52,6 +52,47 @@
         }
       ],
       "uuid": "d19b64cd-a9f6-4eaf-8cdb-3273b2a63cd7"
+    },
+    {
+      "start_time": 54,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lady Catherine's determination to come between Elizabeth and Mr Darcy reinforces the barrier of class, acting as a kind of moment of ritual death. However, Elizabeth is aware of the class system, and knows that Mr Darcy has the right to choose to wed any woman he pleases. Lady Catherine's objections relate to her plans to marry her own daughter to Mr Darcy, who she believes is a better match for him than Elizabeth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "Defined Society",
+          "category": "Romance"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "75fad3f1-6c45-4044-9b01-557544838da4"
     }
   ],
   "set": "Default",
