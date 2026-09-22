@@ -1,1 +1,56 @@
-{"annotations":[],"set":"Default","event_id":"a0e08f2a-64c8-4737-8717-ba91622d69e4","source_id":"ad150234-ec36-4304-beb6-2695d1f0b755"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy helps Mr Bingley practice his proposal to Jane. This helps tear down the very last barrier, and officially ends the moment of ritual death. With the engagement of Jane and Mr Bingley, all of Elizabeth's reasons for objecting to Mr Darcy's proposal are null and void. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "84e9f965-7be7-4a9d-95f6-e4583798ca6b"
+    }
+  ],
+  "set": "Default",
+  "event_id": "a0e08f2a-64c8-4737-8717-ba91622d69e4",
+  "source_id": "ad150234-ec36-4304-beb6-2695d1f0b755"
+}
