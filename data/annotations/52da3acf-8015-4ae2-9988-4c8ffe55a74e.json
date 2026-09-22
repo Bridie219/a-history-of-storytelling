@@ -293,6 +293,63 @@
         }
       ],
       "uuid": "1f53e1a9-f6bb-41a5-a530-67f215f2b386"
+    },
+    {
+      "start_time": 178,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The moment of ritual death continues when Elizabeth mentions Mr Wickham, which sparks that protective instinct in Mr Darcy to cover up what almost happened to cast ruin upon his younger sister. It causes him to further insult Elizabeth, leading to her outright rejection of his proposal. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His relationship with Mr Wickham is another obstacle between him and Elizabeth, and once he has recovered from his hurt, he quickly addresses this misunderstanding. The explanation of what actually happened does create more attraction between Elizabeth and Mr Darcy, leading them towards their moment of recognition, when they are finally in the same place in their relationship. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "6036f022-98ad-491f-ba75-b3436127e119"
     }
   ],
   "set": "Default",
