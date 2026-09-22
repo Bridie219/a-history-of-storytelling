@@ -93,6 +93,51 @@
         }
       ],
       "uuid": "7db4e414-770a-4748-8506-6201fb13bd1b"
+    },
+    {
+      "start_time": 122,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy's letter explaining his dislike of Mr Wickham is the final barrier removal between him and Elizabeth. His defence of his sister also endears him to Elizabeth, because it's the kind of thing she would do for her family. She starts to recognise that he might have a reason for his actions, and begins to search for those reasons, instead of making assumptions. His love for his sister is one of the things that kindles the start of Elizabeth's developing attraction to Mr Darcy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "a14547ff-6999-46c0-8bf0-c16015e3bf40"
     }
   ],
   "set": "Default",
