@@ -93,6 +93,55 @@
         }
       ],
       "uuid": "708e2d6e-e052-4a06-9826-927c03555cf1"
+    },
+    {
+      "start_time": 71,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Bingley proposes to Jane, which officially dismantles the last reason Elizabeth has for rejecting Mr Darcy's proposal. After this scene, the moment of ritual death is officially over, and there is nothing of merit standing between Elizabeth and Mr Darcy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "10017bbf-9d41-4e27-a918-1ea9ca8f54ee"
     }
   ],
   "set": "Default",
