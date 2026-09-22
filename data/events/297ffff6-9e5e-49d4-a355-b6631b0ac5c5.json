@@ -9,9 +9,12 @@
     }
   },
   "auto_generate_web_page": true,
-  "label": "The Attraction (Mr Darcy's Letter)",
+  "label": "Elizabeth's Attraction to Mr Darcy",
   "created_at": "2026-09-01T11:36:04.197Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-09-01T11:36:04.197Z",
-  "updated_by": "Bridie219"
+  "updated_at": "2026-09-22T07:28:12.597Z",
+  "updated_by": "Bridie219",
+  "av_file_order": [
+    "60bcc18a-12f3-445a-8747-4668fb509eca"
+  ]
 }
