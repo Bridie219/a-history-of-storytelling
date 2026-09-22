@@ -93,6 +93,59 @@
         }
       ],
       "uuid": "75fad3f1-6c45-4044-9b01-557544838da4"
+    },
+    {
+      "start_time": 79,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth's defensiveness against Lady Catherine acts as a declaration. If she was uninterested in Mr Darcy's proposal, she simply could have refuted the rumours, and Lady Catherine would have been on her way. Instead, her choice to argue with Lady Catherine implies that she would be interested in a proposal, if one were to occur. She does not mention that she has already refused Mr Darcy's proposal, because she has made the decision that she would accept if he were to ask again. Especially after all he has done for her family. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "4d093d74-2ce3-4554-8a4a-db70a0f5b3c5"
     }
   ],
   "set": "Default",
