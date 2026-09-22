@@ -195,6 +195,55 @@
         }
       ],
       "uuid": "35e847d6-f75f-4c88-891c-e597a702c135"
+    },
+    {
+      "start_time": 145,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth confessing that she is not engaged to Mr Darcy is a little bit of a return to their moment of ritual death. It's a reminder to her that she's already turned down his proposal, and potentially destroyed any chance for the future she now desperately wants. When Lady Catherine demands she promise to turn down any proposal, she refuses. That moment is the moment that signals to Mr Darcy that perhaps, Elizabeth's feelings towards him have changed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "9b2025e4-59b5-49cb-91f3-ae2111709a49"
     }
   ],
   "set": "Default",
