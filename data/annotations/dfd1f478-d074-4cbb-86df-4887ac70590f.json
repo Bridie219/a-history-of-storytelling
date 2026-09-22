@@ -36,6 +36,51 @@
         }
       ],
       "uuid": "09c013f7-3865-4d56-939b-c2a66fcbbdb2"
+    },
+    {
+      "start_time": 160,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth apologising for her behaviour and harsh judgement is what gives Mr Darcy hope that her feelings have changed, leading him to attempt another betrothal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Betrothal",
+          "category": "Romance"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "00067aa7-8dde-4566-81bc-506c4db3eae7"
     }
   ],
   "set": "Default",
