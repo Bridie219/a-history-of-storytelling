@@ -1,1 +1,44 @@
-{"annotations":[],"set":"Default","event_id":"70b1f02f-b087-4c8d-8613-fb18a3e41583","source_id":"3c74b4d6-6bda-4df6-a838-7e0955b86917"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lydia's elopement ending in a wedding has prevented the family from entering into a scandal, but Elizabeth is still furious that it is being brushed under the rug, and Lydia does not seem to be facing consequences. The scandal is still enough that it could lower the reputation of her sisters. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "b767bec7-a58a-40be-8809-c66cc119d935"
+    }
+  ],
+  "set": "Default",
+  "event_id": "70b1f02f-b087-4c8d-8613-fb18a3e41583",
+  "source_id": "3c74b4d6-6bda-4df6-a838-7e0955b86917"
+}
