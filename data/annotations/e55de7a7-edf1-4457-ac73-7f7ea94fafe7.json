@@ -134,6 +134,47 @@
         }
       ],
       "uuid": "4479abc5-8c8d-4850-9f28-1944a8be5cd0"
+    },
+    {
+      "start_time": 94,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy leaves, and Elizabeth's uncle leaves, so they can attempt to find Lydia before the family is ruined. Elizabeth doesn't know what Mr Darcy intends to do, and may believe he is attempting to distance himself from her before the scandal breaks. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "6bdeaac4-2ab7-456f-b3ad-a71878a9bf4b"
     }
   ],
   "set": "Default",
