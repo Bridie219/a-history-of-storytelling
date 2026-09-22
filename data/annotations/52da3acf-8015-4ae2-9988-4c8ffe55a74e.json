@@ -199,6 +199,51 @@
         }
       ],
       "uuid": "d95e7f6a-fc36-45fc-92a3-c0f74ed3c15f"
+    },
+    {
+      "start_time": 64,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth's pride is rather offended by Mr Darcy's declaration. For Mr Darcy, it is this moment that acts as a kind of moment of ritual death. It prevents the romance he had envisioned from happening, because Elizabeth has less-than-politely rejected his proposal. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "d7e0c4f0-d0d9-447e-8c2f-8ba008eb6b5e"
     }
   ],
   "set": "Default",
