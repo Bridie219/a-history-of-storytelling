@@ -81,6 +81,71 @@
         }
       ],
       "uuid": "94103cda-59a2-4259-bb9f-9e2ea6639fc4"
+    },
+    {
+      "start_time": 25,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Mr Darcy's moment of declaration. He says he only came to Rosings to see Elizabeth, because he couldn't bear to be parted from her. It is a romantic sentiment, but his wording could use some work. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Mr Darcy, this is the culmination of all the weeks of yearning since he first met Elizabeth. He has spent plenty of time getting to know her, being around her, and finding her irresistible. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Elizabeth, this moment comes completely out of the blue, because she believed he barely tolerated her presence - instead, he's saying he seeks her out. Her bafflement at his declaration is genuinely the only response that makes sense for her character."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "d5104a1c-83a7-4ac1-9ea2-e578051c2cbb"
     }
   ],
   "set": "Default",
