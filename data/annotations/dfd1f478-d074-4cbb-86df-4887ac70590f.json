@@ -1,1 +1,44 @@
-{"annotations":[],"set":"Default","event_id":"abb2eeaa-cd93-46f3-8b02-5ce339564572","source_id":"bc88e95d-ab60-4cae-bd6f-21c4396f1a59"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth is so overwhelmed by everything that Mr Darcy has done for Elizabeth and her family that she cannot sleep. She goes for a morning walk instead, and comes across Mr Darcy. There are no longer any issues or barriers preventing them from being together, so it's time for a betrothal. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Television Show",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Betrothal",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "09c013f7-3865-4d56-939b-c2a66fcbbdb2"
+    }
+  ],
+  "set": "Default",
+  "event_id": "abb2eeaa-cd93-46f3-8b02-5ce339564572",
+  "source_id": "bc88e95d-ab60-4cae-bd6f-21c4396f1a59"
+}
