@@ -9,9 +9,22 @@
     }
   },
   "auto_generate_web_page": true,
-  "label": "The Declaration",
+  "label": "Mr Darcy's Declaration",
   "created_at": "2026-09-01T11:36:04.197Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-09-01T11:36:04.197Z",
-  "updated_by": "Bridie219"
+  "updated_at": "2026-09-22T08:53:24.933Z",
+  "updated_by": "Bridie219",
+  "av_file_order": [
+    "0015f943-9e3d-4ac5-9545-560c4ee74fd9"
+  ],
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
 }
