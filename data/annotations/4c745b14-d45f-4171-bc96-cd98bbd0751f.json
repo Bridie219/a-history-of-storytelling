@@ -138,6 +138,55 @@
         }
       ],
       "uuid": "a14547ff-6999-46c0-8bf0-c16015e3bf40"
+    },
+    {
+      "start_time": 176,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The second part of Mr Darcy's letter addresses his actions in preventing the union between Jane and Mr Bingley. He explains that he thought what he was doing was in defence of his friend. It assists Elizabeth in realising that Mr Darcy is steadfastly loyal to those he loves, which is a trait Jane also shares - even if they are both a little blind in their defence of their families."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "8d229e9b-0ffb-4e8e-adbe-c1d972bbdc86"
     }
   ],
   "set": "Default",
