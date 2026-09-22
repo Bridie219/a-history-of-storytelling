@@ -1,1 +1,60 @@
-{"annotations":[],"set":"Default","event_id":"948e61b1-8588-4fc3-955a-27e4fdb1f2ee","source_id":"e11a622c-5a90-4e44-b738-d4d4b465a7ab"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lady Catherine's arrival acts as another moment of ritual death, because it cements that a woman of high standing doesn't believe Elizabeth is a good fit for Mr Darcy. Elizabeth's interaction with Lady Catherine also becomes Elizabeth's declaration of feeling. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Declaration",
+          "category": "Romance"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        }
+      ],
+      "uuid": "d19b64cd-a9f6-4eaf-8cdb-3273b2a63cd7"
+    }
+  ],
+  "set": "Default",
+  "event_id": "948e61b1-8588-4fc3-955a-27e4fdb1f2ee",
+  "source_id": "e11a622c-5a90-4e44-b738-d4d4b465a7ab"
+}
