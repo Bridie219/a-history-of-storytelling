@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "6e53b619-7ba3-4761-aced-10b809cba331": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=tyZMJV4mAhQ",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Forbidden Love ",
+  "av_file_order": [
+    "6e53b619-7ba3-4761-aced-10b809cba331"
+  ],
+  "created_at": "2026-09-26T23:42:33.412Z",
+  "created_by": "sheevaghahyazi",
+  "updated_at": "2026-09-26T23:42:33.412Z",
+  "updated_by": "sheevaghahyazi"
+}
