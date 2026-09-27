@@ -2,18 +2,35 @@
   "annotations": [
     {
       "start_time": 0,
-      "end_time": 8,
+      "end_time": 4800,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "Buffy a Vampire Slayer and 16 year old high-school student has befriended Angel a mysterious older boy that has been appearing at her side and helping her with her duties as the slayer. On one of her battles, she is nearly bitten by two very powerful vampires when Angel rescues her. He is injured and Buffy takes him to her house for protection. "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Attraction",
+          "category": "Romance"
+        },
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Fantasy",
+          "category": "Genre"
+        },
+        {
+          "category": "Genre",
+          "tag": "Science Fiction"
+        }
+      ],
       "uuid": "c788ede9-9390-486f-a186-48a60e4656f4"
     }
   ],
