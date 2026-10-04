@@ -4,11 +4,12 @@
   "created_by": "Bridie219",
   "title": "Romantasy - The Cruel Prince",
   "slug": "romantasy-the-cruel-prince",
-  "updated_at": "2026-10-04T08:04:01.443Z",
+  "updated_at": "2026-10-04T08:04:19.866Z",
   "updated_by": "Bridie219",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "c6d80d56-1eec-4493-9829-c12f8bd458fa"
-  }
+  },
+  "parent": "17968936-2adc-4d2e-90e3-4d006be56888"
 }
