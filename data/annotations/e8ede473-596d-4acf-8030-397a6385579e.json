@@ -1,5 +1,54 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth is so overwhelmed by everything that Mr Darcy has done for Elizabeth and her family that she cannot sleep. She goes for a morning walk instead, and comes across Mr Darcy. There are no longer any issues or barriers preventing them from being together, so it's time for a betrothal. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7c8fee50-859d-48dd-8afa-ddfae44e2e65"
+    },
+    {
+      "start_time": 161,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth apologising for her behaviour and harsh judgement is what gives Mr Darcy hope that her feelings have changed, leading him to attempt another betrothal. Mr Darcy also confesses that everything he's done was for her, proving his feelings are more than just words."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "540ee014-31cb-47d0-92e7-cd04b70acac4"
+    },
+    {
+      "start_time": 185,
+      "end_time": 272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The betrothal scene also contains a declaration of love from Mr Darcy. He expresses his hopes for their future, but also gives Elizabeth the opportunity to back away, especially after his last proposal went quite badly. This time, the proposal is accepted - not in as many words, but there is something beautiful in their quiet moment together."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ce54af43-6751-4230-b91e-26743c4f3d90"
+    }
+  ],
   "set": "Default",
   "event_id": "dafbb491-4c57-49de-91a2-800a70acd36b",
   "source_id": "08bfc8e5-8013-42e2-be83-0cbe6a4480aa"
