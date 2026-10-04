@@ -4,11 +4,12 @@
   "created_by": "Bridie219",
   "title": "Liminal Fantasy - The Chilling Adventures of Sabrina",
   "slug": "liminal-fantasy-the-chilling-adventures-of",
-  "updated_at": "2026-10-04T07:30:43.904Z",
+  "updated_at": "2026-10-04T07:34:36.589Z",
   "updated_by": "Bridie219",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "9593ddc2-064e-4a5e-914d-40c021a1bd6f"
-  }
+  },
+  "parent": "ef1e97b0-e071-46df-aea2-a819c6671600"
 }
