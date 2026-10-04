@@ -4,20 +4,132 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Unlike romance, fantasy has few rules and regulations. The two requirements of fantasy are as follows:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1. A secondary world must exist (this is a world that is in some way different from the world the reader exists in). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2. Any rules devised by the author cannot be broken."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The first rule is rather straightforward. The secondary world must exist in some capacity, and be differentiated from the world the reader lives in. However, the form of the secondary world changes depending on the type of world the author is writing about. The core four fantasy worlds are as follows:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1. Otherworld Fantasy - the story takes place in a new world, where the reader's world does not exist. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2. Portal Quest Fantasy - where the characters leave the existing world, entering a portal into the secondary world full of magic, that is not recognisable as our current world."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3. Intrusive Fantasy - the story takes place in the existing world, but there is another world that exists, typically separated from reality by some kind of veil or mist that only certain people (typically a main character) can see through. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4. Liminal Fantasy - where a magical world exists almost as an afterthought, kind of at the edge of the story. This can include stories where the magic itself is in question, where the reader doesn't necessarily know if there was a magical world or not, or when a character refuses to accept their place in the magical world, choosing to stay grounded in the same reality as the reader."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The second rule is also very straightforward. Any rules that the author invents for their world or their magic system must be adhered to. This also ensures no character ever becomes too powerful, and therefore cannot be defeated by any means. If a character becomes overly powerful, the story becomes boring, as powerful characters eliminate any real risk from occurring within the story. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "There are many subtypes of fantasy, because fantasy can lend itself to other genres  well. Often times, fantasy will become hybridised, and connect to another genre in order to provide structure to a fantasy story. The most typical of these hybridisations is romance and fantasy, often referred to as \"Romantasy\". "
         }
       ]
     }
   ],
-  "title": "The Genre Principles of Fantasy",
+  "title": "The Rules of Fantasy",
   "parent": "3e8596ca-221c-45c2-8632-e8dc42c58644",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "the-genre-principles-of-fantasy",
+  "slug": "the-rules-of-fantasy",
   "created_at": "2026-09-01T12:26:52.964Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-10-04T07:11:47.102Z",
+  "updated_at": "2026-10-04T12:13:04.270Z",
   "updated_by": "Bridie219"
 }
