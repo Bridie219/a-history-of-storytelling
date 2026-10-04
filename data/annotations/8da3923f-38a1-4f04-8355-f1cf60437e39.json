@@ -1,5 +1,86 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lady Catherine's arrival acts as another moment of ritual death, because it cements that a woman of high standing doesn't believe Elizabeth is a good fit for Mr Darcy. Elizabeth's interaction with Lady Catherine also becomes Elizabeth's declaration of feeling. \n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a85a59d5-7d2a-472c-bde9-840401e277c4"
+    },
+    {
+      "start_time": 54,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lady Catherine's determination to come between Elizabeth and Mr Darcy reinforces the barrier of class, acting as a kind of moment of ritual death. However, Elizabeth is aware of the class system, and knows that Mr Darcy has the right to choose to wed any woman he pleases. Lady Catherine's objections relate to her plans to marry her own daughter to Mr Darcy, who she believes is a better match for him than Elizabeth."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e7b5f7fd-6b36-4663-b91a-d8744bfc526b"
+    },
+    {
+      "start_time": 80,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth's defensiveness against Lady Catherine acts as a declaration. If she was uninterested in Mr Darcy's proposal, she simply could have refuted the rumours, and Lady Catherine would have been on her way. Instead, her choice to argue with Lady Catherine implies that she would be interested in a proposal, if one were to occur. She does not mention that she has already refused Mr Darcy's proposal, because she has made the decision that she would accept if he were to ask again. Especially after all he has done for her family. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "45a0fc33-15ae-4af9-b104-8042ddd21bd9"
+    },
+    {
+      "start_time": 111,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Through the very implication that Mr Darcy is engaged to her daughter, Elizabeth tears down Lady Catherine's argument. She and Lady Catherine both know Mr Darcy has the right to choose whom he will marry, regardless of Lady Catherine's designs. It acts as a declaration of Elizabeth's feelings, and also brings Elizabeth and Mr Darcy into a moment of recognition. They are finally in the same place, with the same feelings."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1c2d8fea-6c8d-4014-b9c4-78cee5646dd7"
+    },
+    {
+      "start_time": 146,
+      "end_time": 186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth confessing that she is not engaged to Mr Darcy is a little bit of a return to their moment of ritual death. It's a reminder to her that she's already turned down his proposal, and potentially destroyed any chance for the future she now desperately wants. When Lady Catherine demands she promise to turn down any proposal, she refuses. That moment is the moment that signals to Mr Darcy that perhaps, Elizabeth's feelings towards him have changed."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d3402652-19cd-4b36-9797-0ad40209e681"
+    }
+  ],
   "set": "Default",
   "event_id": "dafbb491-4c57-49de-91a2-800a70acd36b",
   "source_id": "b4b188fd-0a50-4b5b-9de7-7d8e7b8d06f0"
