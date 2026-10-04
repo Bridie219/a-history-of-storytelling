@@ -1,5 +1,182 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The film starts with the introduction of society. Elizabeth and her sister Jane are sitting down at the ball, watching the dancing happening around them as they talk about the men in the room. This clip introduces one of the barriers between Elizabeth and Mr Darcy, which is Elizabeth's dismissal of the men of society. She does not believe they are worth her time."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "da0eb4a0-2cac-4d51-ab30-235605505e94"
+    },
+    {
+      "start_time": 21,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene includes the introduction of Mr Darcy and Mr Bingley to society. The way the crowd falls silent and the music stops indicates the importance of the pair. Elizabeth, Jane and Charlotte discuss Mr Darcy's wealth, to further establish the barrier of social class."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "62e6c39a-92f7-4a9b-a7f1-c67f55ab1216"
+    },
+    {
+      "start_time": 67,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A brief meeting of eyes between Elizabeth and Mr Darcy, where Mr Darcy appears briefly shocked to have noticed Elizabeth, and Elizabeth seems a little pleased to have captured his attention. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "828efc78-b5f5-49c1-bafc-9d588aea1d1c"
+    },
+    {
+      "start_time": 80,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Further establishes society with Mrs Bennett being eager to introduce her daughters to the two eligible men, in hopes of securing a prosperous marriage for them. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5b8ada95-e6e0-43cd-b929-af0c97c56413"
+    },
+    {
+      "start_time": 98,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first official meeting between Mr Darcy and Elizabeth. Mr Darcy continues to focus his attention mostly on Elizabeth, but seems bored by the whole affair, as he doesn't much enjoy the performance of society. He is also irritated by the behaviour of Mrs Bennett in this scene, because of the way she is attempting to foist her daughters off on the wealthy men."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f6b3addb-4351-44a6-8252-da630a7aaf29"
+    },
+    {
+      "start_time": 142,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The ball continues, Jane and Mr Bingley have their first conversation. Further defines society, and begins to set up a barrier between Mr Darcy and Elizabeth. Mr Darcy doesn't approve of the match between Jane and Mr Bingley because of her family's inappropriate behaviour within society."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a11b3a5e-4dc8-4f2b-86f2-453eb0d737b2"
+    },
+    {
+      "start_time": 184,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The arrival of the officers to town also presents another barrier between Mr Darcy and Elizabeth in the form of Mr Wickham. He will become the heart of a misunderstanding between them, and also the heart of the moment of ritual death. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "35ad7c1c-aa3a-4ff0-b2a5-99610ef229d3"
+    },
+    {
+      "start_time": 203,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Jane and Mr Bingley begin dancing, Mr Darcy and Elizabeth are left standing together at the side of the room. This leads to one of their more awkward interactions, where Mr Darcy refuses to dance with Elizabeth, despite their being a lack of men in the room (this is evidenced by a later clip where Elizabeth dances with Charlotte). Elizabeth seems rather hurt by his clipped response, especially after she was slightly delighted by his attention earlier. His coldness towards her contributes to the barrier of her believing he is unfeeling toward her."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a8086dd7-f950-4331-a9e2-cf8428788bfc"
+    },
+    {
+      "start_time": 256,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth overhears a conversation between Mr Bingley and Mr Darcy where Mr Darcy refers to her as \"tolerable, but not handsome enough to tempt me\" and she is offended. This contributes to the barrier, because Elizabeth struggles to forget his assessment of her, and her pride prevents her from ignoring it."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8e04f505-ea01-45e3-bec1-261b1dfce7ae"
+    },
+    {
+      "start_time": 280,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Charlotte and Jane mock Mr Darcy, and Jane decides he is the last man she would ever dance with. This becomes relevant when she says a similar thing to Mr Darcy during his proposal. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "606e4891-75ea-4f27-bf3a-c9004b92fc6c"
+    },
+    {
+      "start_time": 288,
+      "end_time": 379,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy broods in the corner while everyone else has a lovely time dancing. He doesn't tend to engage with society, which is another point against him in Elizabeth's books."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cc126462-1d36-4d18-b066-a57ae5f300f0"
+    }
+  ],
   "event_id": "dafbb491-4c57-49de-91a2-800a70acd36b",
   "set": "Society, First Meeting, The Barrier",
   "source_id": "677265d9-19d4-4189-b2f2-353618e5c7e7"
