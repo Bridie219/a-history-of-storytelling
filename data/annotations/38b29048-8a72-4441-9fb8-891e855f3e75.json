@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 256,
-      "end_time": 279,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Elizabeth overhears a conversation between Mr Bingley and Mr Darcy where Mr Darcy refers to her as \"tolerable, but not handsome enough to tempt me\" and she is offended. This contributes to the barrier, because Elizabeth struggles to forget his assessment of her, and her pride prevents her from ignoring it."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "2eb56503-1f2b-4a3d-9ef7-215f0c9c724b"
-    },
-    {
       "start_time": 280,
       "end_time": 297,
       "annotation": [
