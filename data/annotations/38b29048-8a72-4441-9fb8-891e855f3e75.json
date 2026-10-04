@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 98,
-      "end_time": 141,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The first official meeting between Mr Darcy and Elizabeth. Mr Darcy continues to focus his attention mostly on Elizabeth, but seems bored by the whole affair, as he doesn't much enjoy the performance of society. He is also irritated by the behaviour of Mrs Bennett in this scene, because of the way she is attempting to foist her daughters off on the wealthy men."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "3c6412c1-2e7b-41b1-bff2-593cb578b541"
-    },
-    {
       "start_time": 142,
       "end_time": 183,
       "annotation": [
