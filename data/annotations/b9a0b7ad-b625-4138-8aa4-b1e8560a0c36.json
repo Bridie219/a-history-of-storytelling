@@ -1,5 +1,246 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy's first glimpse of Elizabeth Bennett. It becomes very clear that he's attracted to her just from that quick glance, and then he studiously avoids eye contact. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b9f5dd8c-3fe5-443a-ac17-f77fd8d6e33f"
+    },
+    {
+      "start_time": 8,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy's attraction to Elizabeth is undeniable. Every time she enters the room, all of his attention is immediately focused on her. She feels rather uncomfortable from his attention, because she doesn't understand what it means. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "27d3c401-068c-4a23-a0bb-9c4c38fffc7b"
+    },
+    {
+      "start_time": 72,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene is more an example of the barrier than of Mr Darcys attraction. In this scene, he comes across as rather arrogant and demanding. The closes he gets to showing a sign of his attraction to Elizabeth is at the end, where he suggests an accomplished woman should open her mind by reading, and Elizabeth closes her book immediately. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1feafe64-3b62-4d39-bb42-1b8b93e78c79"
+    },
+    {
+      "start_time": 98,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy helping Elizabeth into the carriage is one of the most recognisable scenes from the film. It is where his attraction to Elizabeth becomes the most obvious. The way he flexes his hand, like he's trying to remember what it felt like to hold her hand. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4ae147da-a7b3-4153-bf0e-b011f4d8dbb1"
+    },
+    {
+      "start_time": 111,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene is a callback to the first ball Elizabeth and Mr Darcy both attended, where she asked if he danced and he said \"not if I can help it.\" His decision to ask her to dance explores the attraction he feels for her in a very subtle way. It makes it clear that though he dislikes dancing, he would happily dance with her. His lack of expression could be interpreted as dismissive formality (which is likely how Elizabeth sees it) but it could also be interpreted as nerves. Elizabeth is completely shocked at this turn of events, because she is still acting under the assumption that he doesn't like her. He has not done the best job of showing her his interest. His decision to ask Elizabeth to dance is his announcement of his feelings and regard for her, but she doesn't pick up on that."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "930843b2-099d-414f-b1ec-5c2cc31095c0"
+    },
+    {
+      "start_time": 127,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy's attraction becomes more obvious each time he and Elizabeth are in a room with other people. Mr Darcy only really seems to have attention for her, and he completely ignores Mr Collins in order to address Elizabeth. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "29277461-aaf4-428e-abf2-e881bcf37799"
+    },
+    {
+      "start_time": 143,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another example of Mr Darcy ignoring most polite social conventions by abandoning a conversation so he could spend time staring at Elizabeth while she plays piano. Mr Darcy's implication that he couldn't alarm Elizabeth even if he wanted to suggests that he is intrigued by the way she doesn't care about his thoughts. He is intrigued by her self-assuredness. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7c3b80a7-565b-4d0f-9c19-6d19f3eb4bd5"
+    },
+    {
+      "start_time": 175,
+      "end_time": 206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth making fun of Mr Darcy's behaviour at the first ball continues to ensure Mr Darcy is aware of the little regard she has for him. he feels the need to defend his actions, but Elizabeth is quick to dismiss his defence. Mr Darcy feels the need to improve her impression of him, because he wants her to think as highly of him as he does of her. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "599ab0ad-e435-49a2-94a3-cc49488cddf6"
+    },
+    {
+      "start_time": 207,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth reminds Mr Darcy that self-improvement is an option he possesses. That's why at the next ball, he is quick to ask her to dance. He thinks it will improve her perception of him. He is following the guidance she gives him. He also makes it clear that he is trying to converse with her now. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "294b0179-4a2a-4e5b-b9b7-a42a8ca57fb8"
+    },
+    {
+      "start_time": 225,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy wanted an excuse to visit Elizabeth, and then forgot what his excuse was upon arrival. His attraction (or at the very least, his desire to be in Elizabeth's presence) is very obvious in this scene. He came upon a reason to visit her, and then immediately left upon interruption. It's almost like he was building up to propose and then changed his mind. He ignores Charlotte, the lady of the house, on his exit. It makes it very clear he was there to see Elizabeth, and only Elizabeth."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3a4e8ad2-b79a-44dd-9ee4-3eeee76deb34"
+    },
+    {
+      "start_time": 300,
+      "end_time": 334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy's first proposal... needs some work. But his attraction is undeniable, especially when he chronologically lists all the reasons he shouldn't be marrying her, and implies that he simply must anyway, because he loves her so much. Poor Elizabeth is completely bamboozled."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dc4c1e73-4294-4627-9218-e2a942a2d442"
+    },
+    {
+      "start_time": 335,
+      "end_time": 408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth is feeling very awkward when she encounters Mr Darcy during a visit to his estate. In a way, this is when Elizabeth starts to feel attracted to Mr Darcy, through the exploration of his estate, she realises what she'd given up when she rejected his proposal. He further cements her regretting of the rejection when he supports his family, but this scene marks a turning point for Elizabeth. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8c3de47e-f033-4765-b7e1-b327bb0ca3ba"
+    },
+    {
+      "start_time": 409,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth's attraction to Mr Darcy grows when she sees the way he acts around his sister. He is basically a whole different person. She also realises just how deeply Mr Darcy's feelings must go, if he spends so much time talking about Elizabeth to his sister. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8e7e7b7d-24ad-4302-a800-9303c5121313"
+    },
+    {
+      "start_time": 443,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene is the moment of recognition, where they're both in a place to realise the full extent of their feelings for each other. It is also the moment of Elizabeth's declaration. She finally realises just how much he has been trying to help her and her family. That, more than anything else, endears him to her."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "44b3c1bd-6b3f-4dcd-be8c-fed081949535"
+    },
+    {
+      "start_time": 467,
+      "end_time": 545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The proposal scene! This is where the attraction is most evident, because it's the resolution of the film. It's also the moment of recognition, where both characters agree to enter into a relationship together, despite any obstacles they may face. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a1602ef9-adae-41bc-8864-55ba82000a92"
+    }
+  ],
   "set": "Default",
   "event_id": "dafbb491-4c57-49de-91a2-800a70acd36b",
   "source_id": "3875a41a-aaae-4f51-9a09-1d0264f383e7"
