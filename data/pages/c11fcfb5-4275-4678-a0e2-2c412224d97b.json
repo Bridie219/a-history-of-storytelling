@@ -4,11 +4,12 @@
   "created_by": "Bridie219",
   "title": "Intrusive Fantasy - Shadowhunters",
   "slug": "intrusive-fantasy-shadowhunters",
-  "updated_at": "2026-10-04T07:13:48.503Z",
+  "updated_at": "2026-10-04T07:34:13.643Z",
   "updated_by": "Bridie219",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "115f2322-1df3-42e1-8037-d84348aff6ce"
-  }
+  },
+  "parent": "ef1e97b0-e071-46df-aea2-a819c6671600"
 }
