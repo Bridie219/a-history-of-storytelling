@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 67,
-      "end_time": 79,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A brief meeting of eyes between Elizabeth and Mr Darcy, where Mr Darcy appears briefly shocked to have noticed Elizabeth, and Elizabeth seems a little pleased to have captured his attention. "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "bd3cf76b-30e9-4b49-b9d7-3ba512a63a2a"
-    },
-    {
       "start_time": 80,
       "end_time": 97,
       "annotation": [
