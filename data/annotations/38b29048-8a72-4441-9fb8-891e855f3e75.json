@@ -1,5 +1,118 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy cannot help but constantly be drawn to Elizabeth. He seems to always know exactly where she is in a room. It really makes his attraction to Elizabeth seem very obvious - to everyone, expect Elizabeth. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "736ea950-579b-4d96-b764-c327d3a6ba52"
+    },
+    {
+      "start_time": 8,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth tries to get some breathing room from Mr Darcy and goes for a walk. Mr Darcy follows her, because he can deny his feelings no longer. This is his moment of declaration - in a way, there are two moments of declaration in each romance book. Each party of the relationship must eventually recognise and confess their feelings. At the moment of Mr Darcy's declaration, Elizabeth doesn't possess the same feelings. It takes time for her to realise what she actually feels for him. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5e101d4a-e92d-449d-b85c-68dd3433fce2"
+    },
+    {
+      "start_time": 26,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Mr Darcy's moment of declaration. He says he only came to Rosings to see Elizabeth, because he couldn't bear to be parted from her. It is a romantic sentiment, but his wording could use some work. For Mr Darcy, this is the culmination of all the weeks of yearning since he first met Elizabeth. He has spent plenty of time getting to know her, being around her, and finding her irresistible. For Elizabeth, this moment comes completely out of the blue, because she believed he barely tolerated her presence - instead, he's saying he seeks her out. Her bafflement at his declaration is genuinely the only response that makes sense for her character."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ebb7e28e-0b58-42db-981a-35738e822e7b"
+    },
+    {
+      "start_time": 41,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy insists on reminding them both of the multitude of barriers that should prevent them from being together, before he declares that his feelings continue to exist despite everything. It makes his declaration sound moire like a list of insults than a confession of love."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2f736e44-c707-4935-b7b7-c65c308dc4de"
+    },
+    {
+      "start_time": 65,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth's pride is rather offended by Mr Darcy's declaration. For Mr Darcy, it is this moment that acts as a kind of moment of ritual death. It prevents the romance he had envisioned from happening, because Elizabeth has less-than-politely rejected his proposal. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "187e87db-bc5f-4621-b200-49c84e0e0736"
+    },
+    {
+      "start_time": 87,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene sparks the moment of recognition between Mr Darcy and Elizabeth, and also provides Mr Darcy a roadmap for earning Elizabeth's affection. It also opens Elizabeth's eyes to the behaviour of her own family members, and she begins to realise that Mr Darcy wasn't as arrogant as he may have appeared, and that her family is at times, rather improper. Their communication during this scene helps them both to understand the situation better. They are both better able to understand the errors in their actions. Mr Darcy learns that Elizabeth's family is very important to her, and Elizabeth learns that Mr Darcy wanted to protect his friend from being taken advantage of. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "05358af2-c962-470a-a5f1-37ccebdb1d2d"
+    },
+    {
+      "start_time": 179,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The moment of ritual death continues when Elizabeth mentions Mr Wickham, which sparks that protective instinct in Mr Darcy to cover up what almost happened to cast ruin upon his younger sister. It causes him to further insult Elizabeth, leading to her outright rejection of his proposal. His relationship with Mr Wickham is another obstacle between him and Elizabeth, and once he has recovered from his hurt, he quickly addresses this misunderstanding. The explanation of what actually happened does create more attraction between Elizabeth and Mr Darcy, leading them towards their moment of recognition, when they are finally in the same place in their relationship. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a2466b58-e3b2-4ad9-9de7-9c475ed3dfeb"
+    }
+  ],
   "set": "Default",
   "event_id": "dafbb491-4c57-49de-91a2-800a70acd36b",
   "source_id": "0a3e83ce-0934-4be0-b507-5d634cfa9b13"
