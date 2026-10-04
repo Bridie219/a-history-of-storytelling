@@ -1,5 +1,54 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy helps Mr Bingley practice his proposal to Jane. This helps tear down the very last barrier, and officially ends the moment of ritual death. With the engagement of Jane and Mr Bingley, all of Elizabeth's reasons for objecting to Mr Darcy's proposal are null and void. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "34a49410-c1dc-483c-a3d7-1316331ae2d6"
+    },
+    {
+      "start_time": 38,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth finally begins to declare to her sister that her feelings towards Mr Darcy have changed, and this is before she knows Mr Darcy is actively trying to reconcile her sister and Mr Bingley. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9f2f558f-67ee-4577-b73f-f62ffc694717"
+    },
+    {
+      "start_time": 81,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Bingley proposes to Jane, which officially dismantles the last reason Elizabeth has for rejecting Mr Darcy's proposal. After this scene, the moment of ritual death is officially over, and there is nothing of merit standing between Elizabeth and Mr Darcy. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cb55eaf6-da04-4f6a-8ea3-be2d08d48883"
+    }
+  ],
   "set": "Default",
   "event_id": "dafbb491-4c57-49de-91a2-800a70acd36b",
   "source_id": "2af954ed-80ab-42f4-9208-10b105268b0f"
