@@ -1,5 +1,118 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The arrival of the officers portends the arrival of Mr Wickham, who acts as a barrier between Elizabeth and Mr Darcy. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8b2d3bbf-633b-4d38-a582-2b4490bc18cf"
+    },
+    {
+      "start_time": 21,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Wickham picking up the handkerchief for Elizabeth initiates the start of their relationship, and acts as their initial \"meeting\". Mr Wickham makes a much better, more charming impression, than Mr Darcy. He acts as a barrier between the two because of his charm, but also because of his longstanding feud with Mr Darcy. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0aef4d2b-5c0a-4b34-82ed-e02b5ca26a6f"
+    },
+    {
+      "start_time": 46,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth is charmed by his demeanour and his self-deprecating nature. He acts as a kind of foil to Mr Darcy, who is closed off and prideful. Mr Wickham becomes the charming figure that Elizabeth is drawn to, further cementing his status as the barrier between Elizabeth and Mr Darcy. Later, it is because of Mr Wickham that Elizabeth realises her growing attraction to Mr Darcy, especially when he begins to help her family out of a problematic situation Mr Wickham put them in. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fd2cacb4-ec2c-4f4b-a943-accecc640e35"
+    },
+    {
+      "start_time": 74,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene is very important because it sets up the later scandal between Lydia and Mr Wickham, where Mr Wickham runs away with Lydia to elope, which has the potential to ruin the marriage prospects of her sisters. Elizabeth is charmed by his offer to buy her sister a ribbon, but Lydia is even more charmed by his actions. The potential ruin for her family creates the moment of ritual death between Mr Darcy and Elizabeth, because Elizabeth was finally starting to see Mr Darcy in a more favourable light. When she learns her sister intends to elope, she realises it will be a stain on her reputation, that could prevent Mr Darcy from being allowed to marry her. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b5fca310-5cfc-4a4c-9169-4ada7d380baf"
+    },
+    {
+      "start_time": 93,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The tense moment between Mr Wickham and Mr Darcy reveals their longstanding dislike of each other, especially the moment where Mr Darcy gallops away on his horse. Elizabeth interprets it as Mr Darcy being rude and dismissive of Mr Wickham, instead of Mr Darcy's anger at Mr Wickham's being around more young ladies he has the opportunity to ruin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7f45be31-0a88-41cb-b1e9-4bc0802fc248"
+    },
+    {
+      "start_time": 131,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Wickham's refusal to leave is ironic, because he does actually avoid attending the ball. He avoids Mr Darcy, because a confrontation would expose his previous behaviour, and clue the Bennett family into his actions. By talking of his hatred of Mr Darcy, he further cements the barrier between Elizabeth and Mr Darcy, as Mr Wickham has become someone she trusts. He doesn't tell her the full truth, however, and when she does uncover the truth of what Mr Wickham has done, she immediately turns against him - especially when he tries something similar with her sister, Lydia."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "36ddc19a-63d2-4c5e-9dcd-8081323e65f7"
+    },
+    {
+      "start_time": 170,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The barrier between Elizabeth and Mr Darcy is at its strongest after this moment. Mr Wickham has mislead her into believing that Mr Darcy stole from him, instead of that he gambled away his money, and then attempted to elope with Mr Darcy's sister. Once the barrier is dismantled (the truth comes out), Elizabeth has fewer reasons to dislike Mr Darcy, and instead slowly comes to admire him for his actions in defending his sister. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "449925d6-e9aa-4995-a72c-3dcc410ee848"
+    }
+  ],
   "set": "Default",
   "event_id": "dafbb491-4c57-49de-91a2-800a70acd36b",
   "source_id": "2369df5f-c15c-4193-a926-a3d82236573e"
