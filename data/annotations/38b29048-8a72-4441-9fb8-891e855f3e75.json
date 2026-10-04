@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 203,
-      "end_time": 255,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "When Jane and Mr Bingley begin dancing, Mr Darcy and Elizabeth are left standing together at the side of the room. This leads to one of their more awkward interactions, where Mr Darcy refuses to dance with Elizabeth, despite their being a lack of men in the room (this is evidenced by a later clip where Elizabeth dances with Charlotte). Elizabeth seems rather hurt by his clipped response, especially after she was slightly delighted by his attention earlier. His coldness towards her contributes to the barrier of her believing he is unfeeling toward her."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "b7f21c82-cd00-4277-a75f-3d40f8a32cde"
-    },
-    {
       "start_time": 256,
       "end_time": 279,
       "annotation": [
