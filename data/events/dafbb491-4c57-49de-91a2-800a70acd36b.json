@@ -1,0 +1,123 @@
+{
+  "audiovisual_files": {
+    "677265d9-19d4-4189-b2f2-353618e5c7e7": {
+      "label": "Pride and Prejudice: Society, Elizabeth and Mr Darcy's First Meeting, and the Barrier",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/elQtuRHXPbk?si=hvBX0qzLyb-c24wt",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "2369df5f-c15c-4193-a926-a3d82236573e": {
+      "label": "The Barrier of Mr Wickham",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/-f2VWIQD1C4?si=_F3PHDvPrxrKVw5u",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "3875a41a-aaae-4f51-9a09-1d0264f383e7": {
+      "label": "Mr Darcy's Attraction to Elizabeth ",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/1IqHzszEJss?si=RL2uLvxAPASYBoiv ",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "0a3e83ce-0934-4be0-b507-5d634cfa9b13": {
+      "label": "Mr Darcy's Declaration",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/DJbmGwsJZxI?si=GPtV2zh04AJLxYeg",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "1b4e4bfe-0662-45d9-8b78-fa317deaf723": {
+      "label": "Elizabeth's Attraction to Mr Darcy",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/zGEMXN2tZCk?si=psqLZJ051enXW6CO",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "008f710c-658d-43d3-9ded-4f0413af9365": {
+      "label": "Point of Ritual Death - Lydia's Elopement",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/Urh4XFfn05w?si=txrhJ1R_yp7qk1Pp ",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "46dc913b-0aad-4ade-acb5-43f1d908fca1": {
+      "label": "The Recognition - Mr Darcy Prevents Lydia's Elopement from becoming a Scandal",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/_e0SbKGotwk?si=ka0n_FFcx9LiMLsK",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "2af954ed-80ab-42f4-9208-10b105268b0f": {
+      "label": "The Recognition - Mr Darcy Reconciles Jane and Mr Bingley",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/XeHk6R_TPfw?si=NlDUPBDFfwclTG2-",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "08bfc8e5-8013-42e2-be83-0cbe6a4480aa": {
+      "label": "The Betrothal",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/uiaIGpAWSyo?si=H3xiPmwk_7UeqbAo",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "b4b188fd-0a50-4b5b-9de7-7d8e7b8d06f0": {
+      "label": "Point of Ritual Death - Lady Catherine's Disapproval",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/lImJgpANMoU?si=LwqtjLmEQyGoTU-I",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "A Case Study of Romance: Pride and Prejudice",
+  "av_file_order": [
+    "677265d9-19d4-4189-b2f2-353618e5c7e7",
+    "2369df5f-c15c-4193-a926-a3d82236573e",
+    "3875a41a-aaae-4f51-9a09-1d0264f383e7",
+    "0a3e83ce-0934-4be0-b507-5d634cfa9b13",
+    "008f710c-658d-43d3-9ded-4f0413af9365",
+    "1b4e4bfe-0662-45d9-8b78-fa317deaf723",
+    "46dc913b-0aad-4ade-acb5-43f1d908fca1",
+    "2af954ed-80ab-42f4-9208-10b105268b0f",
+    "b4b188fd-0a50-4b5b-9de7-7d8e7b8d06f0",
+    "08bfc8e5-8013-42e2-be83-0cbe6a4480aa"
+  ],
+  "created_at": "2026-10-04T10:29:23.854Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-10-04T10:29:23.854Z",
+  "updated_by": "Bridie219"
+}
