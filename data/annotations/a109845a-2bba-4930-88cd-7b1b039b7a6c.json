@@ -1,5 +1,70 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lydia's elopement ending in a wedding has prevented the family from entering into a scandal, but Elizabeth is still furious that it is being brushed under the rug, and Lydia does not seem to be facing consequences. The scandal is still enough that it could lower the reputation of her sisters. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c20f0caa-2660-4461-983b-a553575f0dc3"
+    },
+    {
+      "start_time": 33,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lydia is still unaware of the potential damage she could have wreaked on the family's reputation. Elizabeth is frustrated, because her sister came between her and Mr Darcy, and since news of her elopement came, she hasn't heard from Mr Darcy. She has started to believe that Mr Darcy has abandoned his pursuit of her. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "739f66b3-5536-4009-9aeb-01444f085394"
+    },
+    {
+      "start_time": 69,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the moment where Elizabeth's feelings for Mr Darcy become confirmed. She now realises that instead of pursuing her, he went to help her sister, and prevent the scandal from affecting Elizabeth's entire family. He wasn't avoiding Elizabeth because of the scandal, he was actively attempting to minimise its effects. Elizabeth realises what Mr Darcy is willing to do to help her. It also resolves the moment of ritual death, because it becomes clear to Elizabeth that Mr Darcy never intended to abandon her just because of the elopement - he ran off to fix things."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "296c2146-cc89-4168-b319-279d83ab828a"
+    },
+    {
+      "start_time": 123,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth makes clear her feelings towards Mr Wickham by ignoring him. Her family could have easily been ruined by his actions, and she hasn't forgotten what Mr Darcy told her about him either. Mr Wickham's actions have only cemented her good opinion of Mr Darcy. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ed29f130-61de-4bb1-add6-3760d445f7d7"
+    }
+  ],
   "set": "Default",
   "event_id": "dafbb491-4c57-49de-91a2-800a70acd36b",
   "source_id": "46dc913b-0aad-4ade-acb5-43f1d908fca1"
