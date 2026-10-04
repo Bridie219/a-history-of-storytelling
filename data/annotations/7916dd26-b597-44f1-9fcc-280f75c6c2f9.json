@@ -1,22 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 95,
-      "end_time": 130,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Mr Darcy leaves, and Elizabeth's uncle leaves, so they can attempt to find Lydia before the family is ruined. Elizabeth doesn't know what Mr Darcy intends to do, and may believe he is attempting to distance himself from her before the scandal breaks. "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "af39c394-bcbd-495b-9143-ad8ce45e8775"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "dafbb491-4c57-49de-91a2-800a70acd36b",
   "source_id": "1b4e4bfe-0662-45d9-8b78-fa317deaf723"
