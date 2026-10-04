@@ -4,6 +4,31 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://images.photowall.com/products/84847/incredible-fantasy-world.jpg?w=698&h=698&q=85",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Unlike romance, fantasy has few rules and regulations. The two requirements of fantasy are as follows:"
         }
       ]
@@ -119,6 +144,31 @@
           "text": "There are many subtypes of fantasy, because fantasy can lend itself to other genres  well. Often times, fantasy will become hybridised, and connect to another genre in order to provide structure to a fantasy story. The most typical of these hybridisations is romance and fantasy, often referred to as \"Romantasy\". "
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://www.northmetropeac.wa.edu.au/peac/wp-content/uploads/2022/05/fantasy-worlds.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "The Rules of Fantasy",
@@ -130,6 +180,6 @@
   "slug": "the-rules-of-fantasy",
   "created_at": "2026-09-01T12:26:52.964Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-10-04T12:13:04.270Z",
+  "updated_at": "2026-10-04T12:15:50.940Z",
   "updated_by": "Bridie219"
 }
