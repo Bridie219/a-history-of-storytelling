@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 50,
-      "end_time": 73,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Both Mr Darcy and Elizabeth are realising the severity of the situation. Mr Darcy blames himself for not preventing Mr Wickham from attempting to elope with another girl, and Elizabeth blames herself for not warning her sister's of Mr Wickham's behaviour. They're both devastated at their lack of intervention, especially when they consdier what it means for their own relationship."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "9610ba99-714a-4ad0-a7ba-d804882287b1"
-    },
-    {
       "start_time": 74,
       "end_time": 94,
       "annotation": [
