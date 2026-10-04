@@ -1,5 +1,70 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the moment of ritual death. Elizabeth and Mr Darcy had been developing a kind of friendship after Elizabeth's visit to Pemberley House. The news of Lydia's elopement destroys that relationship they'd been building, because if Lydia doesn't go through with the elopement, her family's reputation will be destroyed. This would prevent Mr Darcy from being able to marry Elizabeth. It seems to be an impenetrable obstacle to their relationship."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "64950b65-0115-48fd-8724-7c3e1ff8aa42"
+    },
+    {
+      "start_time": 50,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Both Mr Darcy and Elizabeth are realising the severity of the situation. Mr Darcy blames himself for not preventing Mr Wickham from attempting to elope with another girl, and Elizabeth blames herself for not warning her sister's of Mr Wickham's behaviour. They're both devastated at their lack of intervention, especially when they consdier what it means for their own relationship."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ec900d47-a9c1-4550-862b-0c7bbcbd7cd7"
+    },
+    {
+      "start_time": 74,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This dialogue between Elizabeth and Mr Darcy is as thinly veiled a confession they can make. Elizabeth says they've run out of time, and there's nothing they can do. She is mourning her relationship with Mr Darcy. Mr Darcy is planning how he can intervene to prevent ruin from falling on Elizabeth's family. He is trying to protect what she values. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1a999d55-d84e-44db-a236-5fb7f62943fa"
+    },
+    {
+      "start_time": 95,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy leaves, and Elizabeth's uncle leaves, so they can attempt to find Lydia before the family is ruined. Elizabeth doesn't know what Mr Darcy intends to do, and may believe he is attempting to distance himself from her before the scandal breaks. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "00153006-fe2c-4cf3-9c5e-ba7643ed4048"
+    }
+  ],
   "set": "Default",
   "event_id": "dafbb491-4c57-49de-91a2-800a70acd36b",
   "source_id": "008f710c-658d-43d3-9ded-4f0413af9365"
