@@ -1,5 +1,70 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth is feeling rather out of sorts after Mr Darcy's proposal to her. It's almost like she's grieving the life she could had led, if Mr Darcy were a more tolerable version of himself. She also doesn't feel much like being out in society because she doesn't want to risk encountering Mr Darcy. She is also beginning to slowly realise he was right about everything he said, and she was quite harsh. He is about to dismantle the last argument she had, which was his dislike of Mr Wickham, through the letter."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6331e972-60d3-4573-bb6b-1ce422478569"
+    },
+    {
+      "start_time": 85,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy will not attempt to talk her into marriage, but he does wish to defend his own honour. This is where the barrier is torn down quite well. Elizabeth is no longer able to hold Mr Darcy away after she reads the letter. The removal of the barrier allows her to see who Mr Darcy really is, and allows her attraction to him to grow over the course of the film. She is then only able to judge him on his actions, and her own perceptions. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cc366fa4-66ff-421c-819b-ba915e405a31"
+    },
+    {
+      "start_time": 122,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr Darcy's letter explaining his dislike of Mr Wickham is the final barrier removal between him and Elizabeth. His defence of his sister also endears him to Elizabeth, because it's the kind of thing she would do for her family. She starts to recognise that he might have a reason for his actions, and begins to search for those reasons, instead of making assumptions. His love for his sister is one of the things that kindles the start of Elizabeth's developing attraction to Mr Darcy."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f52ac2e7-5aab-4332-8505-a4ab8200b843"
+    },
+    {
+      "start_time": 176,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The second part of Mr Darcy's letter addresses his actions in preventing the union between Jane and Mr Bingley. He explains that he thought what he was doing was in defence of his friend. It assists Elizabeth in realising that Mr Darcy is steadfastly loyal to those he loves, which is a trait Jane also shares - even if they are both a little blind in their defence of their families."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "192e8903-c9e2-4ae6-8b3e-d6cb25253771"
+    }
+  ],
   "set": "Default",
   "event_id": "dafbb491-4c57-49de-91a2-800a70acd36b",
   "source_id": "1b4e4bfe-0662-45d9-8b78-fa317deaf723"
