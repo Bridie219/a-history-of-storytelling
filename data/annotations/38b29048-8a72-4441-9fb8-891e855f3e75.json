@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 280,
-      "end_time": 297,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Charlotte and Jane mock Mr Darcy, and Jane decides he is the last man she would ever dance with. This becomes relevant when she says a similar thing to Mr Darcy during his proposal. "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "4c6cb318-6f8f-4b6a-94d3-9c15e432bb3a"
-    },
-    {
       "start_time": 288,
       "end_time": 379,
       "annotation": [
