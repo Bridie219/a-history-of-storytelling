@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 184,
-      "end_time": 202,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The arrival of the officers to town also presents another barrier between Mr Darcy and Elizabeth in the form of Mr Wickham. He will become the heart of a misunderstanding between them, and also the heart of the moment of ritual death. "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "b92b39b6-116b-498a-8285-080c7420e7bb"
-    },
-    {
       "start_time": 203,
       "end_time": 255,
       "annotation": [
