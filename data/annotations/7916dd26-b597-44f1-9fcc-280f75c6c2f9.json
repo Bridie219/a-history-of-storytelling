@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 74,
-      "end_time": 94,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This dialogue between Elizabeth and Mr Darcy is as thinly veiled a confession they can make. Elizabeth says they've run out of time, and there's nothing they can do. She is mourning her relationship with Mr Darcy. Mr Darcy is planning how he can intervene to prevent ruin from falling on Elizabeth's family. He is trying to protect what she values. "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "f461c571-19c4-45e5-b268-0187f22f1134"
-    },
-    {
       "start_time": 95,
       "end_time": 130,
       "annotation": [
