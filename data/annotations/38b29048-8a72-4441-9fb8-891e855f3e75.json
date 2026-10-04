@@ -1,22 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 288,
-      "end_time": 379,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Mr Darcy broods in the corner while everyone else has a lovely time dancing. He doesn't tend to engage with society, which is another point against him in Elizabeth's books."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "54fdabea-38cd-401a-b898-db0e432ab7ed"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "dafbb491-4c57-49de-91a2-800a70acd36b",
   "source_id": "0a3e83ce-0934-4be0-b507-5d634cfa9b13"
