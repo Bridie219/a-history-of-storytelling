@@ -1,0 +1,45 @@
+{
+  "audiovisual_files": {
+    "854cc2eb-14cb-4013-8008-b80a7b0b79e3": {
+      "label": "The Portal to Narnia",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/FqXeJpy0gkQ?si=CqoeDKwr0wS2upYF",
+      "duration": 267,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "c92ab817-e655-4a5a-b86e-49fbaf005821": {
+      "label": "Narnia - A World of Magic",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/qkgOyeIsXOw?si=8COuksNNDIx_MeuQ",
+      "duration": 152,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Portal Fantasy - Narnia",
+  "av_file_order": [
+    "854cc2eb-14cb-4013-8008-b80a7b0b79e3",
+    "c92ab817-e655-4a5a-b86e-49fbaf005821"
+  ],
+  "created_at": "2026-10-04T07:48:09.271Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-10-04T07:48:09.271Z",
+  "updated_by": "Bridie219"
+}
