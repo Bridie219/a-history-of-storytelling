@@ -103,7 +103,36 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Recognition",
+          "category": "Romance"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        }
+      ],
       "uuid": "296c2146-cc89-4168-b319-279d83ab828a"
     },
     {
