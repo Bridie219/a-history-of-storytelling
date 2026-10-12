@@ -177,7 +177,32 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Worldbuilding"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
       "uuid": "7f45be31-0a88-41cb-b1e9-4bc0802fc248"
     },
     {
