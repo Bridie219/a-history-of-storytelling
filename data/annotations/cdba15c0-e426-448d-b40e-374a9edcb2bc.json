@@ -49,12 +49,37 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Both Mr Darcy and Elizabeth are realising the severity of the situation. Mr Darcy blames himself for not preventing Mr Wickham from attempting to elope with another girl, and Elizabeth blames herself for not warning her sister's of Mr Wickham's behaviour. They're both devastated at their lack of intervention, especially when they consdier what it means for their own relationship."
+              "text": "Both Mr Darcy and Elizabeth are realising the severity of the situation. Mr Darcy blames himself for not preventing Mr Wickham from attempting to elope with another girl, and Elizabeth blames herself for not warning her sister's of Mr Wickham's behaviour. They're both devastated at their lack of intervention, especially when they consider what it means for their own relationship."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        }
+      ],
       "uuid": "ec900d47-a9c1-4550-862b-0c7bbcbd7cd7"
     },
     {
