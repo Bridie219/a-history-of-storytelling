@@ -148,7 +148,36 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "tag": "Scene",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Moment of Ritual Death",
+          "category": "Romance"
+        },
+        {
+          "tag": "The Barrier",
+          "category": "Romance"
+        }
+      ],
       "uuid": "00153006-fe2c-4cf3-9c5e-ba7643ed4048"
     }
   ],
