@@ -107,7 +107,32 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Romance",
+          "category": "Genre"
+        },
+        {
+          "tag": "Form",
+          "category": "Storytelling"
+        },
+        {
+          "tag": "Movie",
+          "category": "Medium"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Betrothal",
+          "category": "Romance"
+        }
+      ],
       "uuid": "ce54af43-6751-4230-b91e-26743c4f3d90"
     }
   ],
