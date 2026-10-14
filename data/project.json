@@ -80,10 +80,6 @@
           "category": "Genre"
         },
         {
-          "tag": "Horror",
-          "category": "Genre"
-        },
-        {
           "tag": "Form",
           "category": "Storytelling"
         },
@@ -202,7 +198,7 @@
       ]
     },
     "created_at": "2026-08-31T13:56:49.621Z",
-    "updated_at": "2026-10-14T02:35:58.883Z",
+    "updated_at": "2026-10-14T02:36:25.344Z",
     "generate_pages_site": true
   },
   "annotations": {},
