@@ -1,31 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 9,
-      "end_time": 10,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A wide shot of Marie and her ladies in waiting shopping and enthusiastically examining the range of colour fabrics indicates how social consumerism is being encouraged by her friends. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "History",
-          "category": "Storytelling"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "camera shot"
-        }
-      ],
-      "uuid": "46b303bc-1f11-485a-8398-616c612d7e69"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "a92afbab-db82-4252-9b53-b98a176d7545",
   "source_id": "c63af50c-d3c7-4901-bb07-3ea43d332fd5"
