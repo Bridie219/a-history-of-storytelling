@@ -29,6 +29,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Historical fiction film involves the dramatisation of historical events and individuals (who may be fictional) in order to draw viewer engagement. In such films it is evident that these films are not historically accurate, but the audiences are able to get a glimpse of the past through characters, customs, time period, speech, dialogue, conflict and many more. Storytelling in historical films creates a balance between historical events and real modern-life dilemmas. "
         }
       ]
@@ -110,6 +118,6 @@
   "slug": "marie-antoinette-2006",
   "created_at": "2026-10-18T12:03:56.396Z",
   "created_by": "alanac-AVAnnotate",
-  "updated_at": "2026-10-18T12:04:42.942Z",
+  "updated_at": "2026-10-18T13:28:44.545Z",
   "updated_by": "alanac-AVAnnotate"
 }
