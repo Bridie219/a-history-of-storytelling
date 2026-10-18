@@ -257,6 +257,192 @@
         }
       ],
       "uuid": "24f0e957-d6dd-4932-8d8f-41249ee744ad"
+    },
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A wide shot of Marie in her bedroom. The bedroom symbolises a place of comfort and refuge from the danger outside the Palace.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "History",
+          "category": "Storytelling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "danger"
+        }
+      ],
+      "uuid": "3564aae3-056a-4364-a7f7-25f21b63332d"
+    },
+    {
+      "start_time": 21,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A medium shot of Marie being dressed in her robe by her maid emphasises the urgency to get to safety. The hand held camera gives a more personal and imitate feel to the scene.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "History",
+          "category": "Storytelling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "urgency"
+        }
+      ],
+      "uuid": "e241e604-2dfa-4a27-8619-bb84d13702c7"
+    },
+    {
+      "start_time": 40,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A mid shot of Marie, one of her ladies and the maid quickly descending the stairs. This tracking shot embodies the audience to feel the urgency and danger of the situation. Marie is holding a candelabra captures Marie taking control over the situation to get her children and husband to safety. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "History",
+          "category": "Storytelling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "control"
+        }
+      ],
+      "uuid": "1272d377-2569-4e53-8430-4738c62f2a43"
+    },
+    {
+      "start_time": 94,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A low angel wide shot of the French riot outside the Palace of Versailles. The symbolism of fire represents the rage of the French commoners against the King and Queen. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "History",
+          "category": "Storytelling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "revolution"
+        }
+      ],
+      "uuid": "2df8a979-7773-44d0-8586-e4b30465cb4e"
+    },
+    {
+      "start_time": 111,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A low angel mid shot of Marie stepping out of the balcony and facing the riot. This powerful scene reveals Marie’s moment of bravery by putting herself at risk knowing people wish to kill her and her family. This scene represents a moment of accepting that the French people are against her and the monarchy. Importantly, Marie came out dressed in her robe which reveals that this particular act is not performative. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "History",
+          "category": "Storytelling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "power"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "control"
+        }
+      ],
+      "uuid": "56496868-f942-4023-b847-aa33a9b94c73"
+    },
+    {
+      "start_time": 128,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A mid shot of Marie bowing to the commoners. This powerful scene reveals that Marie is surrendering to the French people and unheard of that a Queen will bow to commoners. This shot is silent to place emphasis on the action. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "History",
+          "category": "Storytelling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "power"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "silence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "surrender"
+        }
+      ],
+      "uuid": "d14f4a29-d3a2-449b-bbcd-992b26315920"
     }
   ],
   "set": "Default",
