@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 7,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The beginning of the shopping scene reveals Marie Antoinette's novelty and teenage instincts. A big close up shot and panning of a range of shoes. This emphasises that Maria Antoinette is in a position of luxury as well as the novelty of materialism. \n"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Materialism"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "camera shot"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "sound"
-        }
-      ],
-      "uuid": "d494083f-0ca1-41e0-8fb5-7d46d72af203"
-    },
-    {
       "start_time": 9,
       "end_time": 10,
       "annotation": [
