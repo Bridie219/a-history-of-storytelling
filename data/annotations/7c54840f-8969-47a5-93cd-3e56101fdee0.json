@@ -1,5 +1,264 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The beginning of the shopping scene reveals Marie Antoinette's novelty and teenage instincts. A big close up shot and panning of a range of shoes. This emphasises that Maria Antoinette is in a position of luxury as well as the novelty of materialism. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Materialism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "sound"
+        }
+      ],
+      "uuid": "f7c03034-92c4-439b-94a3-3fcddc3e8bf6"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This big close up shot of Marie Antoinette’s feet while trying on luxurious shoes with the Converse sneakers in the background emphasises that Maria is young and an inexperienced queen who takes pleasure in consumerism, revealing the human nature of teenage girls.   "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Materialism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        }
+      ],
+      "uuid": "8167b8ad-3108-4b2a-bb26-a3b379c40705"
+    },
+    {
+      "start_time": 24,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A wide shot of Marie and her ladies in waiting shopping and enthusiastically examining the range of colour fabrics indicates how social consumerism is being encouraged by her friends. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "History",
+          "category": "Storytelling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        }
+      ],
+      "uuid": "c9c20846-f78e-40ce-bce2-127d92397aff"
+    },
+    {
+      "start_time": 50,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Medium close up low angel of a champaign tower which  displays the position of luxuries. The low angel gives a powerful stance. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Materialism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        }
+      ],
+      "uuid": "79112936-0439-47ea-bd27-73cd91ff5bea"
+    },
+    {
+      "start_time": 53,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Extreme close up shot of Marie trying on two different styles of necklaces. Historically necklaces are a symbol of status and wealth, but metaphorically represent consumerism as a center of her life and how she views royalty.  \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Materialism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        }
+      ],
+      "uuid": "b54ccf4b-f760-410e-8c8f-eebed8869062"
+    },
+    {
+      "start_time": 66,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another close up shot of Marie trying on shoes and how the floor is untidy with champagne, food and cards on the floor to further emphasise the admiration of consumerism and teenage messiness and how Maria is still young. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Materialism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "history"
+        }
+      ],
+      "uuid": "027ea076-6a89-4d27-a3a1-822d8a6c2fc9"
+    },
+    {
+      "start_time": 73,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bird’s eye close up of fast cutting jump cuts of different luxury delicacies indicates the metaphor of being consumed by consumerism, as well as the juxtaposition of food in this scene being a symbol of luxury compared to survival.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Materialism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "history"
+        }
+      ],
+      "uuid": "5194a08b-64c2-47b6-80f6-0c542ed5947c"
+    },
+    {
+      "start_time": 86,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High angel close up shot of Marie and her ladies in waiting relishing in gambling as a result of ignoring their court duties and ignoring the problem of the kingdom.   \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Camera shot"
+        }
+      ],
+      "uuid": "edd6ada2-513d-45f0-9977-095a82165bbf"
+    },
+    {
+      "start_time": 125,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close up shot of Marie with an extravagant hairstyle and indulging in luxury as a teenager would. The items of birds symbolise that Maria feels freedom from strict French court life when she engages in consumerism of luxury items. Marie directly looking at the audience reveals that she is only admiring herself and how luxury is the main focus of her life. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Materialism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        }
+      ],
+      "uuid": "182f5bbd-dca5-4ab6-8be6-5d36e74ce329"
+    },
+    {
+      "start_time": 158,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An extreme close up shot of one of Marie’s ladies in eating an extravagant dessert and this shot wants the audience to focus on this particular act and to have full attention of this shot. This shot also represents the indulgence of wealth. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Materialism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "camera shot"
+        }
+      ],
+      "uuid": "24f0e957-d6dd-4932-8d8f-41249ee744ad"
+    }
+  ],
   "set": "Default",
   "event_id": "a92afbab-db82-4252-9b53-b98a176d7545",
   "source_id": "c63af50c-d3c7-4901-bb07-3ea43d332fd5"
