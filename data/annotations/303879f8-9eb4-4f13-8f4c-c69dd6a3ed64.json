@@ -41,6 +41,10 @@
         {
           "category": "Fantasy",
           "tag": "Worldbuilding"
+        },
+        {
+          "tag": "Television Show",
+          "category": "Medium"
         }
       ],
       "uuid": "b27568df-ec0c-47aa-9cfd-18234d5e139d"
