@@ -101,6 +101,43 @@
         }
       ],
       "uuid": "ef553156-a069-4f81-90f1-c0080e3ea983"
+    },
+    {
+      "start_time": 50,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The ritual ceremony acts as an indicator of magic, but Sabrina's choice to leave before the ritual is complete makes it clear that she intends to reject the magic - or at least, reject what magic means to her family. Sabrina has to decide what she wants her magic to be like, in order to choose magic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fantasy",
+          "category": "Genre"
+        },
+        {
+          "tag": "Television Show",
+          "category": "Medium"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Liminal Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules of the Fantasy World"
+        }
+      ],
+      "uuid": "0da93ed9-39ae-418b-ae75-e2663c2b4013"
     }
   ],
   "set": "Default",
