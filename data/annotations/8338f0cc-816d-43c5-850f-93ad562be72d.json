@@ -64,6 +64,43 @@
       ],
       "tags": [],
       "uuid": "9a91b071-4325-4728-92c8-f571dc16e676"
+    },
+    {
+      "start_time": 41,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The choice between her friends and family makes it clear that it's a very internal struggle. Either Sabrina will accept her place in the magical world, or she will choose to accept it. The magic's existence depends entirely on Sabrina choosing it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fantasy",
+          "category": "Genre"
+        },
+        {
+          "tag": "Television Show",
+          "category": "Medium"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Liminal Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules of the Fantasy World"
+        }
+      ],
+      "uuid": "ef553156-a069-4f81-90f1-c0080e3ea983"
     }
   ],
   "set": "Default",
