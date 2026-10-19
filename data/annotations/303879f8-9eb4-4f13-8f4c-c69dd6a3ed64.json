@@ -1,1 +1,52 @@
-{"annotations":[],"set":"Default","event_id":"115f2322-1df3-42e1-8037-d84348aff6ce","source_id":"9842b76f-af53-43cc-91f9-4d2652eeb8a8"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The notion of protecting the Human World from the Demon World is what clues the audience into the secondary world that exists on top of the existing world. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clary's discovery of the intrusive world is described as her learning the truth about the world, because her true \"Sight\" allows her to see the monsters that have been infiltrating the human world. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This kind of fantasy is known as intrusive fantasy - where a secondary world begins to intrude on the existing world, with the intent of infiltrating or destroying the existing world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fantasy",
+          "category": "Genre"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Intrusive Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        }
+      ],
+      "uuid": "b27568df-ec0c-47aa-9cfd-18234d5e139d"
+    }
+  ],
+  "set": "Default",
+  "event_id": "115f2322-1df3-42e1-8037-d84348aff6ce",
+  "source_id": "9842b76f-af53-43cc-91f9-4d2652eeb8a8"
+}
