@@ -175,6 +175,43 @@
         }
       ],
       "uuid": "ac825c77-637e-4b9c-8562-972c252558b6"
+    },
+    {
+      "start_time": 104,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The trailer makes it clear that whilst magic exists in Sabrina's world, her relationship with it is complicated. She uses it, but she also doesn't want to be consumed by it. She does not want to follow the dark path, instead, she wants to make her own choices. Her desire to resist the path she's being led down makes this text a liminal fantasy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fantasy",
+          "category": "Genre"
+        },
+        {
+          "tag": "Television Show",
+          "category": "Medium"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Liminal Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules of the Fantasy World"
+        }
+      ],
+      "uuid": "d3a318d7-896f-42d5-8d15-2b926e6a8e9b"
     }
   ],
   "set": "Default",
