@@ -82,6 +82,10 @@
         {
           "category": "Fantasy",
           "tag": "Intrusive Fantasy"
+        },
+        {
+          "tag": "Television Show",
+          "category": "Medium"
         }
       ],
       "uuid": "102803f1-ecfa-4781-951e-1086094bf4bd"
