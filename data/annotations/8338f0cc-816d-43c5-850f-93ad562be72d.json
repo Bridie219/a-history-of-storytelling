@@ -1,1 +1,72 @@
-{"annotations":[{"start_time":0,"end_time":20,"annotation":[{"type":"paragraph","children":[{"text":"Sabrina seems like a perfectly normal teenaged girl, going home after a date. It seems very much like she has a normal life, until the door is closed to the \"real\" world, acting as a barrier between the world outside, and the magical world Sabrina exists in at home."}]},{"type":"paragraph","children":[{"text":"That is what makes Chilling Adventures of Sabrina a liminal fantasy text, because she exists on the cusp of magic, pretending to live a normal life, but also existing in a world with magic. "}]}],"tags":[{"tag":"Fantasy","category":"Genre"},{"tag":"Television Show","category":"Medium"},{"category":"Analysis","tag":"Character"},{"category":"Analysis","tag":"Worldbuilding"}],"uuid":"3b87ca29-fc91-48db-b749-3aabc2447172"}],"set":"Default","event_id":"9593ddc2-064e-4a5e-914d-40c021a1bd6f","source_id":"269eeccb-7c14-4178-885c-c91e91c58525"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sabrina seems like a perfectly normal teenaged girl, going home after a date. It seems very much like she has a normal life, until the door is closed to the \"real\" world, acting as a barrier between the world outside, and the magical world Sabrina exists in at home."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is what makes Chilling Adventures of Sabrina a liminal fantasy text, because she exists on the cusp of magic, pretending to live a normal life, but also existing in a world with magic. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fantasy",
+          "category": "Genre"
+        },
+        {
+          "tag": "Television Show",
+          "category": "Medium"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Character"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Worldbuilding"
+        }
+      ],
+      "uuid": "3b87ca29-fc91-48db-b749-3aabc2447172"
+    },
+    {
+      "start_time": 21,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As soon as she is home alone, the influence of the outside world fades away, and Sabrina begins using magic with a natural ease that makes it clear magic has been a part of her for a very long time. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The choice between two worlds could be explained as intrusive fantasy, but in this case liminal fantasy is more fitting. Sabrina will either have to reject or accept the magic that exists as a part of her life. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9a91b071-4325-4728-92c8-f571dc16e676"
+    }
+  ],
+  "set": "Default",
+  "event_id": "9593ddc2-064e-4a5e-914d-40c021a1bd6f",
+  "source_id": "269eeccb-7c14-4178-885c-c91e91c58525"
+}
